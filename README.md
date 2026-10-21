@@ -396,7 +396,7 @@ Les fichiers intermédiaires étant versionnés dans `data_processed/`, il est p
 
 ## 👩‍💻 Auteur et encadrement
 
-**Oumi** — Master Big Data, Intelligence Artificielle et Applications Avancées
+**Oumaima ELBOUZAIDI** — Master Big Data, Intelligence Artificielle et Applications Avancées
 Laboratoire **LaRIT**, Université **Ibn Tofail**, Kénitra, Maroc
 GitHub : [@ouumii](https://github.com/ouumii)
 
