@@ -1,0 +1,253 @@
+﻿region,alpha,culture_recommandee,n_ex_aequo,identique_reference
+Tanger-Tetouan-Al Hoceima,0.0,Agrumes | Figuier,2,True
+Oriental,0.0,Figuier,1,False
+Fes-Meknes,0.0,Figuier,1,False
+Rabat-Sale-Kenitra,0.0,Figuier,1,True
+Beni Mellal-Khenifra,0.0,Figuier,1,False
+Casablanca-Settat,0.0,Figuier,1,False
+Marrakech-Safi,0.0,Figuier,1,False
+Draa-Tafilalet,0.0,Figuier,1,False
+Souss-Massa,0.0,Figuier,1,False
+Guelmim-Oued Noun,0.0,Figuier,1,True
+Laayoune-Sakia El Hamra,0.0,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.0,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.05,Figuier,1,True
+Oriental,0.05,Figuier,1,False
+Fes-Meknes,0.05,Figuier,1,False
+Rabat-Sale-Kenitra,0.05,Figuier,1,True
+Beni Mellal-Khenifra,0.05,Figuier,1,False
+Casablanca-Settat,0.05,Figuier,1,False
+Marrakech-Safi,0.05,Figuier,1,False
+Draa-Tafilalet,0.05,Figuier,1,False
+Souss-Massa,0.05,Figuier,1,False
+Guelmim-Oued Noun,0.05,Figuier,1,True
+Laayoune-Sakia El Hamra,0.05,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.05,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.1,Figuier,1,True
+Oriental,0.1,Figuier,1,False
+Fes-Meknes,0.1,Figuier,1,False
+Rabat-Sale-Kenitra,0.1,Figuier,1,True
+Beni Mellal-Khenifra,0.1,Figuier,1,False
+Casablanca-Settat,0.1,Figuier,1,False
+Marrakech-Safi,0.1,Figuier,1,False
+Draa-Tafilalet,0.1,Figuier,1,False
+Souss-Massa,0.1,Figuier,1,False
+Guelmim-Oued Noun,0.1,Figuier,1,True
+Laayoune-Sakia El Hamra,0.1,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.1,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.15,Figuier,1,True
+Oriental,0.15,Olivier,1,False
+Fes-Meknes,0.15,Figuier,1,False
+Rabat-Sale-Kenitra,0.15,Figuier,1,True
+Beni Mellal-Khenifra,0.15,Figuier,1,False
+Casablanca-Settat,0.15,Olivier,1,True
+Marrakech-Safi,0.15,Figuier,1,False
+Draa-Tafilalet,0.15,Figuier,1,False
+Souss-Massa,0.15,Figuier,1,False
+Guelmim-Oued Noun,0.15,Figuier,1,True
+Laayoune-Sakia El Hamra,0.15,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.15,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.2,Figuier,1,True
+Oriental,0.2,Olivier,1,False
+Fes-Meknes,0.2,Figuier,1,False
+Rabat-Sale-Kenitra,0.2,Figuier,1,True
+Beni Mellal-Khenifra,0.2,Figuier,1,False
+Casablanca-Settat,0.2,Olivier,1,True
+Marrakech-Safi,0.2,Figuier,1,False
+Draa-Tafilalet,0.2,Figuier,1,False
+Souss-Massa,0.2,Figuier,1,False
+Guelmim-Oued Noun,0.2,Figuier,1,True
+Laayoune-Sakia El Hamra,0.2,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.2,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.25,Figuier,1,True
+Oriental,0.25,Olivier,1,False
+Fes-Meknes,0.25,Figuier,1,False
+Rabat-Sale-Kenitra,0.25,Figuier,1,True
+Beni Mellal-Khenifra,0.25,Figuier,1,False
+Casablanca-Settat,0.25,Olivier,1,True
+Marrakech-Safi,0.25,Figuier,1,False
+Draa-Tafilalet,0.25,Figuier,1,False
+Souss-Massa,0.25,Palmier dattier,1,True
+Guelmim-Oued Noun,0.25,Figuier,1,True
+Laayoune-Sakia El Hamra,0.25,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.25,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.3,Figuier,1,True
+Oriental,0.3,Olivier,1,False
+Fes-Meknes,0.3,Pois chiche,1,True
+Rabat-Sale-Kenitra,0.3,Figuier,1,True
+Beni Mellal-Khenifra,0.3,Figuier,1,False
+Casablanca-Settat,0.3,Olivier,1,True
+Marrakech-Safi,0.3,Olivier,1,True
+Draa-Tafilalet,0.3,Palmier dattier,1,True
+Souss-Massa,0.3,Palmier dattier,1,True
+Guelmim-Oued Noun,0.3,Figuier,1,True
+Laayoune-Sakia El Hamra,0.3,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.3,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.35,Figuier,1,True
+Oriental,0.35,Olivier,1,False
+Fes-Meknes,0.35,Pois chiche,1,True
+Rabat-Sale-Kenitra,0.35,Figuier,1,True
+Beni Mellal-Khenifra,0.35,Figuier,1,False
+Casablanca-Settat,0.35,Olivier,1,True
+Marrakech-Safi,0.35,Olivier,1,True
+Draa-Tafilalet,0.35,Palmier dattier,1,True
+Souss-Massa,0.35,Palmier dattier,1,True
+Guelmim-Oued Noun,0.35,Figuier,1,True
+Laayoune-Sakia El Hamra,0.35,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.35,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.4,Figuier,1,True
+Oriental,0.4,Olivier,1,False
+Fes-Meknes,0.4,Pois chiche,1,True
+Rabat-Sale-Kenitra,0.4,Figuier,1,True
+Beni Mellal-Khenifra,0.4,Figuier,1,False
+Casablanca-Settat,0.4,Olivier,1,True
+Marrakech-Safi,0.4,Olivier,1,True
+Draa-Tafilalet,0.4,Palmier dattier,1,True
+Souss-Massa,0.4,Palmier dattier,1,True
+Guelmim-Oued Noun,0.4,Figuier,1,True
+Laayoune-Sakia El Hamra,0.4,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.4,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.45,Figuier,1,True
+Oriental,0.45,Palmier dattier,1,True
+Fes-Meknes,0.45,Pois chiche,1,True
+Rabat-Sale-Kenitra,0.45,Figuier,1,True
+Beni Mellal-Khenifra,0.45,Vigne,1,True
+Casablanca-Settat,0.45,Olivier,1,True
+Marrakech-Safi,0.45,Olivier,1,True
+Draa-Tafilalet,0.45,Palmier dattier,1,True
+Souss-Massa,0.45,Palmier dattier,1,True
+Guelmim-Oued Noun,0.45,Figuier,1,True
+Laayoune-Sakia El Hamra,0.45,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.45,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.5,Figuier,1,True
+Oriental,0.5,Palmier dattier,1,True
+Fes-Meknes,0.5,Pois chiche,1,True
+Rabat-Sale-Kenitra,0.5,Figuier,1,True
+Beni Mellal-Khenifra,0.5,Vigne,1,True
+Casablanca-Settat,0.5,Olivier,1,True
+Marrakech-Safi,0.5,Olivier,1,True
+Draa-Tafilalet,0.5,Palmier dattier,1,True
+Souss-Massa,0.5,Palmier dattier,1,True
+Guelmim-Oued Noun,0.5,Figuier,1,True
+Laayoune-Sakia El Hamra,0.5,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.5,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.55,Figuier,1,True
+Oriental,0.55,Palmier dattier,1,True
+Fes-Meknes,0.55,Pois chiche,1,True
+Rabat-Sale-Kenitra,0.55,Figuier,1,True
+Beni Mellal-Khenifra,0.55,Vigne,1,True
+Casablanca-Settat,0.55,Olivier,1,True
+Marrakech-Safi,0.55,Olivier,1,True
+Draa-Tafilalet,0.55,Palmier dattier,1,True
+Souss-Massa,0.55,Palmier dattier,1,True
+Guelmim-Oued Noun,0.55,Figuier,1,True
+Laayoune-Sakia El Hamra,0.55,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.55,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.6,Pois chiche,1,False
+Oriental,0.6,Palmier dattier,1,True
+Fes-Meknes,0.6,Pois chiche,1,True
+Rabat-Sale-Kenitra,0.6,Figuier,1,True
+Beni Mellal-Khenifra,0.6,Vigne,1,True
+Casablanca-Settat,0.6,Olivier,1,True
+Marrakech-Safi,0.6,Olivier,1,True
+Draa-Tafilalet,0.6,Palmier dattier,1,True
+Souss-Massa,0.6,Palmier dattier,1,True
+Guelmim-Oued Noun,0.6,Figuier,1,True
+Laayoune-Sakia El Hamra,0.6,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.6,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.65,Pois chiche,1,False
+Oriental,0.65,Palmier dattier,1,True
+Fes-Meknes,0.65,Pois chiche,1,True
+Rabat-Sale-Kenitra,0.65,Figuier,1,True
+Beni Mellal-Khenifra,0.65,Vigne,1,True
+Casablanca-Settat,0.65,Olivier,1,True
+Marrakech-Safi,0.65,Olivier,1,True
+Draa-Tafilalet,0.65,Palmier dattier,1,True
+Souss-Massa,0.65,Palmier dattier,1,True
+Guelmim-Oued Noun,0.65,Figuier,1,True
+Laayoune-Sakia El Hamra,0.65,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.65,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.7,Pois chiche,1,False
+Oriental,0.7,Palmier dattier,1,True
+Fes-Meknes,0.7,Pois chiche,1,True
+Rabat-Sale-Kenitra,0.7,Figuier,1,True
+Beni Mellal-Khenifra,0.7,Vigne,1,True
+Casablanca-Settat,0.7,Oignon,1,False
+Marrakech-Safi,0.7,Olivier,1,True
+Draa-Tafilalet,0.7,Palmier dattier,1,True
+Souss-Massa,0.7,Palmier dattier,1,True
+Guelmim-Oued Noun,0.7,Figuier,1,True
+Laayoune-Sakia El Hamra,0.7,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.7,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.75,Pois chiche,1,False
+Oriental,0.75,Palmier dattier,1,True
+Fes-Meknes,0.75,Pois chiche,1,True
+Rabat-Sale-Kenitra,0.75,Figuier,1,True
+Beni Mellal-Khenifra,0.75,Vigne,1,True
+Casablanca-Settat,0.75,Oignon,1,False
+Marrakech-Safi,0.75,Olivier,1,True
+Draa-Tafilalet,0.75,Palmier dattier,1,True
+Souss-Massa,0.75,Palmier dattier,1,True
+Guelmim-Oued Noun,0.75,Figuier,1,True
+Laayoune-Sakia El Hamra,0.75,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.75,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.8,Pois chiche,1,False
+Oriental,0.8,Palmier dattier,1,True
+Fes-Meknes,0.8,Pois chiche,1,True
+Rabat-Sale-Kenitra,0.8,Figuier,1,True
+Beni Mellal-Khenifra,0.8,Vigne,1,True
+Casablanca-Settat,0.8,Oignon,1,False
+Marrakech-Safi,0.8,Olivier,1,True
+Draa-Tafilalet,0.8,Palmier dattier,1,True
+Souss-Massa,0.8,Palmier dattier,1,True
+Guelmim-Oued Noun,0.8,Figuier,1,True
+Laayoune-Sakia El Hamra,0.8,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.8,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.85,Pois chiche,1,False
+Oriental,0.85,Palmier dattier,1,True
+Fes-Meknes,0.85,Pois chiche,1,True
+Rabat-Sale-Kenitra,0.85,Figuier,1,True
+Beni Mellal-Khenifra,0.85,Vigne,1,True
+Casablanca-Settat,0.85,Oignon,1,False
+Marrakech-Safi,0.85,Olivier,1,True
+Draa-Tafilalet,0.85,Palmier dattier,1,True
+Souss-Massa,0.85,Palmier dattier,1,True
+Guelmim-Oued Noun,0.85,Figuier,1,True
+Laayoune-Sakia El Hamra,0.85,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.85,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.9,Pois chiche,1,False
+Oriental,0.9,Palmier dattier,1,True
+Fes-Meknes,0.9,Pois chiche,1,True
+Rabat-Sale-Kenitra,0.9,Figuier,1,True
+Beni Mellal-Khenifra,0.9,Vigne,1,True
+Casablanca-Settat,0.9,Oignon,1,False
+Marrakech-Safi,0.9,Olivier,1,True
+Draa-Tafilalet,0.9,Palmier dattier,1,True
+Souss-Massa,0.9,Palmier dattier,1,True
+Guelmim-Oued Noun,0.9,Figuier,1,True
+Laayoune-Sakia El Hamra,0.9,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.9,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,0.95,Pois chiche,1,False
+Oriental,0.95,Palmier dattier,1,True
+Fes-Meknes,0.95,Pois chiche,1,True
+Rabat-Sale-Kenitra,0.95,Figuier,1,True
+Beni Mellal-Khenifra,0.95,Vigne,1,True
+Casablanca-Settat,0.95,Oignon,1,False
+Marrakech-Safi,0.95,Haricot,1,False
+Draa-Tafilalet,0.95,Palmier dattier,1,True
+Souss-Massa,0.95,Palmier dattier,1,True
+Guelmim-Oued Noun,0.95,Figuier,1,True
+Laayoune-Sakia El Hamra,0.95,Figuier,1,True
+Dakhla-Oued Ed Dahab,0.95,Figuier,1,True
+Tanger-Tetouan-Al Hoceima,1.0,Tournesol | Orge | Haricot | Pois chiche | Lentille,5,False
+Oriental,1.0,Palmier dattier,1,True
+Fes-Meknes,1.0,Pois chiche,1,True
+Rabat-Sale-Kenitra,1.0,Figuier | Tournesol | Orge | Pommier | Haricot | Vigne | Mais | Amandier | Pois chiche | Lentille,10,True
+Beni Mellal-Khenifra,1.0,Tournesol | Luzerne | Haricot | Vigne | Pois chiche | Lentille,6,True
+Casablanca-Settat,1.0,Oignon | Orge | Haricot,3,False
+Marrakech-Safi,1.0,Haricot,1,False
+Draa-Tafilalet,1.0,Palmier dattier,1,True
+Souss-Massa,1.0,Palmier dattier,1,True
+Guelmim-Oued Noun,1.0,Oignon | Agrumes | Figuier | Tournesol | Orge | Tomate | Pommier | Luzerne | Olivier | Riz | Haricot | Palmier dattier | Pomme de terre | Ble | Vigne | Mais | Amandier | Pois chiche | Lentille,19,True
+Laayoune-Sakia El Hamra,1.0,Oignon | Agrumes | Figuier | Tournesol | Orge | Tomate | Pommier | Luzerne | Olivier | Riz | Haricot | Palmier dattier | Pomme de terre | Ble | Vigne | Mais | Amandier | Pois chiche | Lentille,19,True
+Dakhla-Oued Ed Dahab,1.0,Oignon | Agrumes | Figuier | Tournesol | Orge | Tomate | Pommier | Luzerne | Olivier | Riz | Haricot | Palmier dattier | Pomme de terre | Ble | Vigne | Mais | Amandier | Pois chiche | Lentille,19,True

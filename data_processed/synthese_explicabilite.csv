@@ -1,0 +1,4 @@
+scenario,regions,recommandations,cultures_recommandees_distinctes,score_min_recommandations,score_max_recommandations,facteur_limitant_detaille_disponible
+alpha=0.3,12,12,4,0.3072207920409845,0.9625,True
+alpha=0.5,12,12,5,0.2194434228864175,0.9670099303360652,True
+alpha=0.7,12,12,6,0.1316660537318505,0.9802059582016392,True

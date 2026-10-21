@@ -1,0 +1,37 @@
+﻿region,alpha,tau_w,classe
+Beni Mellal-Khenifra,0.3,1.0,robuste
+Beni Mellal-Khenifra,0.5,1.0,robuste
+Beni Mellal-Khenifra,0.7,1.0,robuste
+Casablanca-Settat,0.3,1.0,robuste
+Casablanca-Settat,0.5,1.0,robuste
+Casablanca-Settat,0.7,0.7777777777777778,intermédiaire
+Dakhla-Oued Ed Dahab,0.3,1.0,robuste
+Dakhla-Oued Ed Dahab,0.5,1.0,robuste
+Dakhla-Oued Ed Dahab,0.7,1.0,robuste
+Draa-Tafilalet,0.3,0.8888888888888888,robuste
+Draa-Tafilalet,0.5,1.0,robuste
+Draa-Tafilalet,0.7,1.0,robuste
+Fes-Meknes,0.3,1.0,robuste
+Fes-Meknes,0.5,1.0,robuste
+Fes-Meknes,0.7,1.0,robuste
+Guelmim-Oued Noun,0.3,1.0,robuste
+Guelmim-Oued Noun,0.5,1.0,robuste
+Guelmim-Oued Noun,0.7,1.0,robuste
+Laayoune-Sakia El Hamra,0.3,1.0,robuste
+Laayoune-Sakia El Hamra,0.5,1.0,robuste
+Laayoune-Sakia El Hamra,0.7,1.0,robuste
+Marrakech-Safi,0.3,0.7777777777777778,intermédiaire
+Marrakech-Safi,0.5,1.0,robuste
+Marrakech-Safi,0.7,1.0,robuste
+Oriental,0.3,1.0,robuste
+Oriental,0.5,1.0,robuste
+Oriental,0.7,1.0,robuste
+Rabat-Sale-Kenitra,0.3,1.0,robuste
+Rabat-Sale-Kenitra,0.5,1.0,robuste
+Rabat-Sale-Kenitra,0.7,1.0,robuste
+Souss-Massa,0.3,1.0,robuste
+Souss-Massa,0.5,1.0,robuste
+Souss-Massa,0.7,1.0,robuste
+Tanger-Tetouan-Al Hoceima,0.3,1.0,robuste
+Tanger-Tetouan-Al Hoceima,0.5,0.7777777777777778,intermédiaire
+Tanger-Tetouan-Al Hoceima,0.7,1.0,robuste

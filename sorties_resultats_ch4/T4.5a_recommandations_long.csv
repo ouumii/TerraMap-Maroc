@@ -1,0 +1,37 @@
+﻿region,alpha,culture_recommandee,score_rendement,score_eco,score_final,ecart_au_second,composante_dominante
+Tanger-Tetouan-Al Hoceima,0.3,Figuier,0.875,1.0,0.962,0.072,écologie
+Oriental,0.3,Olivier,0.4,0.666,0.586,0.033,écologie
+Fes-Meknes,0.3,Pois chiche,1.0,0.663,0.764,0.038,écologie
+Rabat-Sale-Kenitra,0.3,Figuier,1.0,0.934,0.954,0.055,écologie
+Beni Mellal-Khenifra,0.3,Figuier,0.813,0.856,0.843,0.0,écologie
+Casablanca-Settat,0.3,Olivier,0.927,0.856,0.877,0.068,écologie
+Marrakech-Safi,0.3,Olivier,0.333,0.683,0.578,0.005,écologie
+Draa-Tafilalet,0.3,Palmier dattier,0.6,0.218,0.332,0.025,rendement
+Souss-Massa,0.3,Palmier dattier,0.663,0.436,0.504,0.067,écologie
+Guelmim-Oued Noun,0.3,Figuier,0.0,0.612,0.428,0.021,écologie
+Laayoune-Sakia El Hamra,0.3,Figuier,0.0,0.573,0.401,0.022,écologie
+Dakhla-Oued Ed Dahab,0.3,Figuier,0.0,0.439,0.307,0.022,écologie
+Tanger-Tetouan-Al Hoceima,0.5,Figuier,0.875,1.0,0.938,0.017,écologie
+Oriental,0.5,Palmier dattier,0.575,0.524,0.55,0.017,rendement
+Fes-Meknes,0.5,Pois chiche,1.0,0.663,0.831,0.195,rendement
+Rabat-Sale-Kenitra,0.5,Figuier,1.0,0.934,0.967,0.056,rendement
+Beni Mellal-Khenifra,0.5,Vigne,1.0,0.712,0.856,0.022,rendement
+Casablanca-Settat,0.5,Olivier,0.927,0.856,0.891,0.043,rendement
+Marrakech-Safi,0.5,Olivier,0.333,0.683,0.508,0.048,écologie
+Draa-Tafilalet,0.5,Palmier dattier,0.6,0.218,0.409,0.189,rendement
+Souss-Massa,0.5,Palmier dattier,0.663,0.436,0.549,0.237,rendement
+Guelmim-Oued Noun,0.5,Figuier,0.0,0.612,0.306,0.015,écologie
+Laayoune-Sakia El Hamra,0.5,Figuier,0.0,0.573,0.287,0.016,écologie
+Dakhla-Oued Ed Dahab,0.5,Figuier,0.0,0.439,0.219,0.016,écologie
+Tanger-Tetouan-Al Hoceima,0.7,Pois chiche,1.0,0.841,0.952,0.004,rendement
+Oriental,0.7,Palmier dattier,0.575,0.524,0.56,0.08,rendement
+Fes-Meknes,0.7,Pois chiche,1.0,0.663,0.899,0.257,rendement
+Rabat-Sale-Kenitra,0.7,Figuier,1.0,0.934,0.98,0.034,rendement
+Beni Mellal-Khenifra,0.7,Vigne,1.0,0.712,0.914,0.017,rendement
+Casablanca-Settat,0.7,Oignon,1.0,0.696,0.909,0.01,rendement
+Marrakech-Safi,0.7,Olivier,0.333,0.683,0.438,0.064,rendement
+Draa-Tafilalet,0.7,Palmier dattier,0.6,0.218,0.485,0.353,rendement
+Souss-Massa,0.7,Palmier dattier,0.663,0.436,0.594,0.407,rendement
+Guelmim-Oued Noun,0.7,Figuier,0.0,0.612,0.183,0.009,écologie
+Laayoune-Sakia El Hamra,0.7,Figuier,0.0,0.573,0.172,0.009,écologie
+Dakhla-Oued Ed Dahab,0.7,Figuier,0.0,0.439,0.132,0.01,écologie

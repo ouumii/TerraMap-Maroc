@@ -1,0 +1,14 @@
+region_id,region,capital,latitude,longitude,sau_2016_ha,sau_irriguee_2016_ha,irrigation_rate_pct,source_doc,annee,note,score_irrigation
+1,Tanger-Tetouan-Al Hoceima,Tanger,35.7595,-5.834,729149,56712,7.78,Atlas de l'Agriculture Marocaine 3e edition (2020) - RGA 2016,2016,,1.0
+2,Oriental,Oujda,34.6814,-1.9086,889450,150094,16.87,Atlas de l'Agriculture Marocaine 3e edition (2020) - RGA 2016,2016,,0.8416100365917407
+3,Fes-Meknes,Fes,34.0331,-5.0003,1235521,158968,12.87,Atlas de l'Agriculture Marocaine 3e edition (2020) - RGA 2016,2016,,0.9113085903467504
+4,Rabat-Sale-Kenitra,Rabat,34.0209,-6.8416,942981,185704,19.69,Atlas de l'Agriculture Marocaine 3e edition (2020) - RGA 2016,2016,,0.792472556194459
+5,Beni Mellal-Khenifra,Beni Mellal,32.3373,-6.3498,994463,208374,20.95,Atlas de l'Agriculture Marocaine 3e edition (2020) - RGA 2016,2016,,0.770517511761631
+6,Casablanca-Settat,Casablanca,33.5731,-7.5898,1263042,141469,11.2,Atlas de l'Agriculture Marocaine 3e edition (2020) - RGA 2016,2016,,0.9404077365394669
+7,Marrakech-Safi,Marrakech,31.6295,-7.9811,2055977,306264,14.9,Atlas de l'Agriculture Marocaine 3e edition (2020) - RGA 2016,2016,,0.875936574316083
+8,Draa-Tafilalet,Errachidia,31.9314,-4.4247,270910,176539,65.17,Atlas de l'Agriculture Marocaine 3e edition (2020) - RGA 2016,2016,Coherent avec source independante DRA (63.9% via agrimaroc.ma) - confiance elevee,0.0
+9,Souss-Massa,Agadir,30.4278,-9.5981,453445,163759,36.11,Atlas de l'Agriculture Marocaine 3e edition (2020) - RGA 2016,2016,,0.5063599930301447
+10,Guelmim-Oued Noun,Guelmim,28.987,-10.0574,164100,30107,18.35,Atlas de l'Agriculture Marocaine 3e edition (2020) - RGA 2016,2016,,0.8158215717023871
+11,Laayoune-Sakia El Hamra,Laayoune,27.1536,-13.2033,19732,4311,21.85,Atlas de l'Agriculture Marocaine 3e edition (2020) - RGA 2016,2016,,0.7548353371667538
+12,Dakhla-Oued Ed Dahab,Dakhla,23.6848,-15.957,1908,990,51.89,Atlas de l'Agriculture Marocaine 3e edition (2020) - RGA 2016,2016,SAU tres faible (region desertique/cotiere) - a interpreter avec prudence agronomique,0.23139919846663182
+,,,,

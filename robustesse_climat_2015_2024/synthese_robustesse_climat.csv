@@ -1,0 +1,4 @@
+﻿alpha,regions_recommandation_identique,spearman_moyen_classements,spearman_min_classements,ecart_moyen_abs_score_final,couples_rendement_nul_2025,couples_rendement_nul_2015_2024
+0.3,8/12,0.865,0.456,0.055,131,144
+0.5,5/12,0.826,0.418,0.076,131,144
+0.7,6/12,0.804,0.281,0.097,131,144

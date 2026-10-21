@@ -1,0 +1,14 @@
+﻿controle,resultat
+Régions,12
+Cultures,19
+Couples région-culture,228
+"Doublons (région, culture)",0
+Valeurs manquantes dans les scores,0
+"Scores hors [0,1]",0
+Écart max S_rend vs min des 3 scores,0.0
+Écart max score final alpha=0.3,1.1102230246251565e-16
+Rangs cohérents alpha=0.3,True
+Écart max score final alpha=0.5,1.1102230246251565e-16
+Rangs cohérents alpha=0.5,True
+Écart max score final alpha=0.7,1.1102230246251565e-16
+Rangs cohérents alpha=0.7,True

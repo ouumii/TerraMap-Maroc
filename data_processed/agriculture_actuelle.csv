@@ -1,0 +1,229 @@
+region_id,region,culture,superficie_ha,rendement_qha,source_doc,annee,note
+1,Tanger-Tetouan-Al Hoceima,Ble,253100.0,13.3,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 47),2018-2019,Ble dur + ble tendre combines
+1,Tanger-Tetouan-Al Hoceima,Orge,95300.0,10.6,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 47),2018-2019,
+1,Tanger-Tetouan-Al Hoceima,Mais,1500.0,12.7,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 47),2018-2019,
+1,Tanger-Tetouan-Al Hoceima,Riz,1400.0,65.0,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 47),2018-2019,
+1,Tanger-Tetouan-Al Hoceima,Pois chiche,12500.0,7.7,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 48),2018-2019,
+1,Tanger-Tetouan-Al Hoceima,Lentille,4300.0,2.1,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 48),2018-2019,
+1,Tanger-Tetouan-Al Hoceima,Haricot,,,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 48),2018-2019,Non isole - inclus dans Autres Legumineuses
+1,Tanger-Tetouan-Al Hoceima,Tournesol,1600.0,10.5,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 50),2018-2019,
+1,Tanger-Tetouan-Al Hoceima,Olivier,197400.0,11.8,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 53),2018-2019,
+1,Tanger-Tetouan-Al Hoceima,Agrumes,1900.0,346.4,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 53),2018-2019,
+1,Tanger-Tetouan-Al Hoceima,Amandier,44100.0,1.8,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 53),2018-2019,
+1,Tanger-Tetouan-Al Hoceima,Figuier,24300.0,24.8,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 53),2018-2019,
+1,Tanger-Tetouan-Al Hoceima,Pommier,,,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 53),2018-2019,Non isole - inclus dans Rosaces (melange especes)
+1,Tanger-Tetouan-Al Hoceima,Vigne,,,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 53),2018-2019,Absente du tableau - culture non pratiquee/negligeable
+1,Tanger-Tetouan-Al Hoceima,Tomate,1100.0,142.9,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 51),2018-2019,
+1,Tanger-Tetouan-Al Hoceima,Pomme de terre,10100.0,296.0,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 51),2018-2019,
+1,Tanger-Tetouan-Al Hoceima,Oignon,1400.0,125.5,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 51),2018-2019,
+1,Tanger-Tetouan-Al Hoceima,Luzerne,,,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020 (Tableau 52),2018-2019,Non isolee - table donne Cultures Fourrageres agregees (47100 ha 241.5 qx/ha toutes especes confondues)
+1,Tanger-Tetouan-Al Hoceima,Palmier dattier,,,Monographie HCP Tanger-Tetouan-Al Hoceima Decembre 2020,2018-2019,Non pratique dans cette region - climat non adapte
+2,Oriental,Ble,139511.0,2.06,Monographie HCP Oriental Janvier 2021,2018-2019,Ble dur + ble tendre combines
+2,Oriental,Orge,135550.0,1.6,Monographie HCP Oriental Janvier 2021,2018-2019,
+2,Oriental,Mais,,,Monographie HCP Oriental Janvier 2021,2018-2019,Non disponible dans cette monographie (source limitee aux cereales et arboricoles)
+2,Oriental,Riz,,,Monographie HCP Oriental Janvier 2021,2018-2019,Non disponible dans cette monographie (source limitee aux cereales et arboricoles)
+2,Oriental,Pois chiche,,,Monographie HCP Oriental Janvier 2021,2018-2019,Non disponible dans cette monographie (source limitee aux cereales et arboricoles)
+2,Oriental,Lentille,,,Monographie HCP Oriental Janvier 2021,2018-2019,Non disponible dans cette monographie (source limitee aux cereales et arboricoles)
+2,Oriental,Haricot,,,Monographie HCP Oriental Janvier 2021,2018-2019,Non disponible dans cette monographie (source limitee aux cereales et arboricoles)
+2,Oriental,Tournesol,,,Monographie HCP Oriental Janvier 2021,2018-2019,Non disponible dans cette monographie (source limitee aux cereales et arboricoles)
+2,Oriental,Olivier,119100.0,16.99,Monographie HCP Oriental Janvier 2021,2018-2019,
+2,Oriental,Agrumes,18260.0,152.46,Monographie HCP Oriental Janvier 2021,2018-2019,Clementine + Navel + Autres agrumes combines
+2,Oriental,Amandier,35740.0,7.31,Monographie HCP Oriental Janvier 2021,2018-2019,
+2,Oriental,Figuier,1305.0,22.91,Monographie HCP Oriental Janvier 2021,2018-2019,
+2,Oriental,Pommier,644.0,119.27,Monographie HCP Oriental Janvier 2021,2018-2019,
+2,Oriental,Vigne,2367.0,249.56,Monographie HCP Oriental Janvier 2021,2018-2019,Vigne de table + vigne de cuve combinees
+2,Oriental,Tomate,,,Monographie HCP Oriental Janvier 2021,2018-2019,Non disponible dans cette monographie (source limitee aux cereales et arboricoles)
+2,Oriental,Pomme de terre,,,Monographie HCP Oriental Janvier 2021,2018-2019,Non disponible dans cette monographie (source limitee aux cereales et arboricoles)
+2,Oriental,Oignon,,,Monographie HCP Oriental Janvier 2021,2018-2019,Non disponible dans cette monographie (source limitee aux cereales et arboricoles)
+2,Oriental,Luzerne,,,Monographie HCP Oriental Janvier 2021,2018-2019,Non disponible dans cette monographie (source limitee aux cereales et arboricoles)
+2,Oriental,Palmier dattier,1777.0,12.94,Monographie HCP Oriental Janvier 2021,2018-2019,
+3,Fes-Meknes,Ble,543300.0,27.17,Monographie HCP Fes-Meknes (Tableau 71),2017-2018,Ble dur + ble tendre combines - verifie par recoupement avec Tableau 70
+3,Fes-Meknes,Orge,219800.0,21.05,Monographie HCP Fes-Meknes (Tableau 70/71),2017-2018,Verifie par recoupement avec Tableau 70
+3,Fes-Meknes,Mais,,,Monographie HCP Fes-Meknes (Tableau 71),2017-2018,Valeur non disponible dans le tableau (indique par un tiret)
+3,Fes-Meknes,Riz,,,Monographie HCP Fes-Meknes,2017-2018,Non disponible dans cette monographie
+3,Fes-Meknes,Pois chiche,33700.0,1.7,Monographie HCP Fes-Meknes (Tableau 73),2017-2018,
+3,Fes-Meknes,Lentille,86200.0,11.98,Monographie HCP Fes-Meknes (Tableau 73),2017-2018,
+3,Fes-Meknes,Haricot,,,Monographie HCP Fes-Meknes,2017-2018,Non disponible dans cette monographie
+3,Fes-Meknes,Tournesol,,,Monographie HCP Fes-Meknes,2017-2018,Non disponible dans cette monographie
+3,Fes-Meknes,Olivier,,,Monographie HCP Fes-Meknes (Tableau 69),2017-2018,Non disponible - tableau 69 (seule source pour arboriculture) donne des rendements incoherents (unite/agregation ambigue) - ecarte par prudence methodologique
+3,Fes-Meknes,Agrumes,,,Monographie HCP Fes-Meknes (Tableau 69),2017-2018,Non disponible - meme raison que Olivier
+3,Fes-Meknes,Amandier,,,Monographie HCP Fes-Meknes (Tableau 69),2017-2018,Non disponible - meme raison que Olivier
+3,Fes-Meknes,Figuier,,,Monographie HCP Fes-Meknes,2017-2018,Non disponible dans cette monographie
+3,Fes-Meknes,Pommier,,,Monographie HCP Fes-Meknes,2017-2018,Non disponible dans cette monographie
+3,Fes-Meknes,Vigne,,,Monographie HCP Fes-Meknes,2017-2018,Non disponible dans cette monographie
+3,Fes-Meknes,Tomate,,,Monographie HCP Fes-Meknes,2017-2018,Non disponible dans cette monographie
+3,Fes-Meknes,Pomme de terre,,,Monographie HCP Fes-Meknes,2017-2018,Non disponible dans cette monographie
+3,Fes-Meknes,Oignon,,,Monographie HCP Fes-Meknes,2017-2018,Non disponible dans cette monographie
+3,Fes-Meknes,Luzerne,,,Monographie HCP Fes-Meknes,2017-2018,Non disponible dans cette monographie
+3,Fes-Meknes,Palmier dattier,,,Monographie HCP Fes-Meknes,2017-2018,Non pratique dans cette region
+4,Rabat-Sale-Kenitra,Ble,,,Monographie HCP Rabat-Sale-Kenitra (Tableau 83),2018-2019,Non ventile par espece - seul le total categorie Cereales (502800 ha) est disponible sans rendement
+4,Rabat-Sale-Kenitra,Orge,,,Monographie HCP Rabat-Sale-Kenitra (Tableau 83),2018-2019,Non ventile - inclus dans total Cereales
+4,Rabat-Sale-Kenitra,Mais,,,Monographie HCP Rabat-Sale-Kenitra (Tableau 83),2018-2019,Non ventile - inclus dans total Cereales
+4,Rabat-Sale-Kenitra,Riz,,,Monographie HCP Rabat-Sale-Kenitra,2018-2019,Non disponible
+4,Rabat-Sale-Kenitra,Pois chiche,,,Monographie HCP Rabat-Sale-Kenitra (Tableau 83),2018-2019,Non ventile - inclus dans total Legumineuses (Qatani;  48000 ha) sans rendement
+4,Rabat-Sale-Kenitra,Lentille,,,Monographie HCP Rabat-Sale-Kenitra (Tableau 83),2018-2019,Non ventile - inclus dans total Legumineuses
+4,Rabat-Sale-Kenitra,Haricot,,,Monographie HCP Rabat-Sale-Kenitra (Tableau 83),2018-2019,Non ventile - inclus dans total Legumineuses
+4,Rabat-Sale-Kenitra,Tournesol,,,Monographie HCP Rabat-Sale-Kenitra (Tableau 83),2018-2019,Non ventile - inclus dans total Cultures oleagineuses (23600 ha) sans rendement
+4,Rabat-Sale-Kenitra,Olivier,,,Monographie HCP Rabat-Sale-Kenitra,2018-2019,Non disponible dans cette monographie
+4,Rabat-Sale-Kenitra,Agrumes,,,Monographie HCP Rabat-Sale-Kenitra,2018-2019,Non disponible dans cette monographie
+4,Rabat-Sale-Kenitra,Amandier,,,Monographie HCP Rabat-Sale-Kenitra,2018-2019,Non disponible dans cette monographie
+4,Rabat-Sale-Kenitra,Figuier,,,Monographie HCP Rabat-Sale-Kenitra,2018-2019,Non disponible dans cette monographie
+4,Rabat-Sale-Kenitra,Pommier,,,Monographie HCP Rabat-Sale-Kenitra,2018-2019,Non disponible dans cette monographie
+4,Rabat-Sale-Kenitra,Vigne,,,Monographie HCP Rabat-Sale-Kenitra,2018-2019,Non disponible dans cette monographie
+4,Rabat-Sale-Kenitra,Tomate,,,Monographie HCP Rabat-Sale-Kenitra,2018-2019,Non disponible dans cette monographie
+4,Rabat-Sale-Kenitra,Pomme de terre,,,Monographie HCP Rabat-Sale-Kenitra,2018-2019,Non disponible dans cette monographie (cultures sucrieres regroupees;  non individualisees)
+4,Rabat-Sale-Kenitra,Oignon,,,Monographie HCP Rabat-Sale-Kenitra,2018-2019,Non disponible dans cette monographie
+4,Rabat-Sale-Kenitra,Luzerne,,,Monographie HCP Rabat-Sale-Kenitra,2018-2019,Non disponible dans cette monographie
+4,Rabat-Sale-Kenitra,Palmier dattier,,,Monographie HCP Rabat-Sale-Kenitra,2018-2019,Non pratique dans cette region
+5,Beni Mellal-Khenifra,Ble,362500.0,21.01,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra (Tableau 1),2020-2021,Ble dur (133800 ha) + ble tendre (228700 ha) combines
+5,Beni Mellal-Khenifra,Orge,225300.0,17.38,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra (Tableau 1),2020-2021,
+5,Beni Mellal-Khenifra,Mais,,,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra,2020-2021,Non disponible dans ce tableau
+5,Beni Mellal-Khenifra,Riz,,,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra,2020-2021,Non disponible dans ce tableau
+5,Beni Mellal-Khenifra,Pois chiche,290.0,8.07,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra (Tableau 1),2020-2021,
+5,Beni Mellal-Khenifra,Lentille,2150.0,5.95,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra (Tableau 1),2020-2021,
+5,Beni Mellal-Khenifra,Haricot,,,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra,2020-2021,Non disponible - Feves/Petits pois listes separement mais pas Haricot
+5,Beni Mellal-Khenifra,Tournesol,,,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra (Tableau 2),2020-2021,Non ventile - agrege dans Cultures oleagineuses (1730 ha total region;  rendement recalcule 4.62 qx/ha - la source affichait par erreur 263.44 identique aux Agrumes;  valeur corrigee ici mais non attribuable specifiquement au tournesol
+5,Beni Mellal-Khenifra,Olivier,106410.0,20.37,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra (Tableau 2),2020-2021,
+5,Beni Mellal-Khenifra,Agrumes,17020.0,263.44,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra (Tableau 2),2020-2021,
+5,Beni Mellal-Khenifra,Amandier,,,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra,2020-2021,Non disponible dans ce tableau
+5,Beni Mellal-Khenifra,Figuier,,,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra,2020-2021,Non disponible - possiblement inclus dans Cultures des rosacees agregees (37380 ha;  rendement 40.55) non ventilees par espece
+5,Beni Mellal-Khenifra,Pommier,,,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra,2020-2021,Non ventile - inclus dans Cultures des rosacees agregees (37380 ha;  rendement 40.55;  plusieurs especes melangees)
+5,Beni Mellal-Khenifra,Vigne,,,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra,2020-2021,Non disponible dans ce tableau
+5,Beni Mellal-Khenifra,Tomate,,,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra (Tableau 2),2020-2021,Non ventile - inclus dans Cultures maraicheres agregees (10650 ha;  rendement 332.88;  plusieurs especes melangees)
+5,Beni Mellal-Khenifra,Pomme de terre,,,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra (Tableau 2),2020-2021,Non ventile - inclus dans Cultures maraicheres agregees
+5,Beni Mellal-Khenifra,Oignon,,,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra (Tableau 2),2020-2021,Non ventile - inclus dans Cultures maraicheres agregees
+5,Beni Mellal-Khenifra,Luzerne,,,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra (Tableau 2),2020-2021,Non ventile - Cultures fourrageres agregees (82410 ha;  rendement 379.03) incluent plusieurs especes en plus de la luzerne
+5,Beni Mellal-Khenifra,Palmier dattier,,,Monographie/Annuaire agricole DRA Beni Mellal-Khenifra,2020-2021,Non disponible dans ce tableau
+6,Casablanca-Settat,Ble,452900.0,10.41,Monographie HCP Casablanca-Settat (Evolution cultures cerealieres),2015-2016,Ble dur (161900 ha) + ble tendre (291000 ha) combines - annee de secheresse severe
+6,Casablanca-Settat,Orge,228700.0,0.6,Monographie HCP Casablanca-Settat (Evolution cultures cerealieres),2015-2016,Rendement tres bas - annee de secheresse severe (verifie: 139200/228700=0.61)
+6,Casablanca-Settat,Mais,63800.0,13.4,Monographie HCP Casablanca-Settat (Evolution cultures cerealieres),2015-2016,
+6,Casablanca-Settat,Riz,,,Monographie HCP Casablanca-Settat,2015-2016,Non disponible
+6,Casablanca-Settat,Pois chiche,,,Monographie HCP Casablanca-Settat (Legumineuses par province),2015-2016,Non ventile par espece - seul le total Legumineuses region disponible (13145 ha;  rendement 3.0 qx/ha)
+6,Casablanca-Settat,Lentille,,,Monographie HCP Casablanca-Settat,2015-2016,Non ventile - inclus dans total Legumineuses
+6,Casablanca-Settat,Haricot,,,Monographie HCP Casablanca-Settat,2015-2016,Non ventile - inclus dans total Legumineuses
+6,Casablanca-Settat,Tournesol,,,Monographie HCP Casablanca-Settat,2015-2016,Non disponible dans ce document
+6,Casablanca-Settat,Olivier,,,Monographie HCP Casablanca-Settat (Arbres fruitiers par province),2015-2016,Non ventile par espece - seul le total Arbres fruitiers region disponible (34847 ha;  rendement 31.0 qx/ha apres conversion tonne->qx)
+6,Casablanca-Settat,Agrumes,,,Monographie HCP Casablanca-Settat,2015-2016,Non ventile - inclus dans total Arbres fruitiers
+6,Casablanca-Settat,Amandier,,,Monographie HCP Casablanca-Settat,2015-2016,Non ventile - inclus dans total Arbres fruitiers
+6,Casablanca-Settat,Figuier,,,Monographie HCP Casablanca-Settat,2015-2016,Non ventile - inclus dans total Arbres fruitiers
+6,Casablanca-Settat,Pommier,,,Monographie HCP Casablanca-Settat,2015-2016,Non ventile - inclus dans total Arbres fruitiers
+6,Casablanca-Settat,Vigne,,,Monographie HCP Casablanca-Settat,2015-2016,Non ventile - inclus dans total Arbres fruitiers
+6,Casablanca-Settat,Tomate,,,Monographie HCP Casablanca-Settat (Maraichage par province),2015-2016,Non ventile par espece - seul le total Maraichage region disponible (37144 ha;  rendement 28.2 qx/ha)
+6,Casablanca-Settat,Pomme de terre,,,Monographie HCP Casablanca-Settat,2015-2016,Non ventile - inclus dans total Maraichage
+6,Casablanca-Settat,Oignon,,,Monographie HCP Casablanca-Settat,2015-2016,Non ventile - inclus dans total Maraichage
+6,Casablanca-Settat,Luzerne,,,Monographie HCP Casablanca-Settat (Fourrages par province),2015-2016,Non ventile par espece - seul le total Fourrages region disponible (79943 ha;  rendement 260 qx/ha apres conversion tonne->qx)
+6,Casablanca-Settat,Palmier dattier,,,Monographie HCP Casablanca-Settat,2015-2016,Non disponible - culture non pratiquee/non trackee dans cette region
+7,Marrakech-Safi,Ble,656100.0,11.38,Monographie HCP Marrakech-Safi (Productions et superficies cereales par province) | Monographie HCP Marrakech-Safi (Cultures cerealieres par province),2016-2017,Ble dur (242600 ha) + ble tendre (413500 ha) combines | Ble dur (242600 ha;  13.54 qx/ha) + ble tendre (413500 ha;  10.12 qx/ha) combines
+7,Marrakech-Safi,Orge,636200.0,7.4,Monographie HCP Marrakech-Safi (Productions et superficies cereales par province) | Monographie HCP Marrakech-Safi (Cultures cerealieres par province),2016-2017,
+7,Marrakech-Safi,Mais,63200.0,6.24,Monographie HCP Marrakech-Safi (Productions et superficies cereales par province) | Monographie HCP Marrakech-Safi (Cultures cerealieres par province),2016-2017,
+7,Marrakech-Safi,Riz,,,Monographie HCP Marrakech-Safi,2016-2017,Non disponible dans ces tableaux | Non disponible dans ce tableau
+7,Marrakech-Safi,Pois chiche,2000.0,6.0,Monographie HCP Marrakech-Safi (Legumineuses alimentaires par province) | Monographie HCP Marrakech-Safi (Legumineuses par province),2016-2017,
+7,Marrakech-Safi,Lentille,2200.0,6.36,Monographie HCP Marrakech-Safi (Legumineuses alimentaires par province) | Monographie HCP Marrakech-Safi (Legumineuses par province),2016-2017,
+7,Marrakech-Safi,Haricot,,,Monographie HCP Marrakech-Safi,2016-2017,Non disponible - tableau legumineuses couvre Feves/Petit-pois/Pois chiches/Lentilles uniquement;  pas Haricot | Non disponible - Feves/Petit-pois listes separement mais pas Haricot
+7,Marrakech-Safi,Tournesol,,,Monographie HCP Marrakech-Safi,2016-2017,Non disponible dans ces tableaux | Non disponible dans cette monographie
+7,Marrakech-Safi,Olivier,,,Monographie HCP Marrakech-Safi,2016-2017,Non disponible dans cette monographie
+7,Marrakech-Safi,Agrumes,,,Monographie HCP Marrakech-Safi,2016-2017,Non disponible dans cette monographie
+7,Marrakech-Safi,Amandier,,,Monographie HCP Marrakech-Safi,2016-2017,Non disponible dans cette monographie
+7,Marrakech-Safi,Figuier,,,Monographie HCP Marrakech-Safi,2016-2017,Non disponible dans cette monographie
+7,Marrakech-Safi,Pommier,,,Monographie HCP Marrakech-Safi,2016-2017,Non disponible dans cette monographie
+7,Marrakech-Safi,Vigne,,,Monographie HCP Marrakech-Safi,2016-2017,Non disponible dans cette monographie
+7,Marrakech-Safi,Tomate,,,Monographie HCP Marrakech-Safi,2016-2017,Non disponible dans cette monographie
+7,Marrakech-Safi,Pomme de terre,,,Monographie HCP Marrakech-Safi,2016-2017,Non disponible dans cette monographie
+7,Marrakech-Safi,Oignon,,,Monographie HCP Marrakech-Safi,2016-2017,Non disponible dans cette monographie
+7,Marrakech-Safi,Luzerne,,,Monographie HCP Marrakech-Safi,2016-2017,Non disponible dans cette monographie
+7,Marrakech-Safi,Palmier dattier,,,Monographie HCP Marrakech-Safi,2016-2017,Non disponible dans cette monographie (culture pourtant presente dans la region - a rechercher dans une autre source si besoin)
+8,Draa-Tafilalet,Ble,66400.0,18.29,Monographie HCP Draa-Tafilalet - Annuaire statistique du Maroc 2019 (Tableau 118),2017-2018,Ble dur (25900 ha 16.81 qx/ha) + ble tendre (40500 ha 19.24 qx/ha) combines
+8,Draa-Tafilalet,Orge,13700.0,14.07,Monographie HCP Draa-Tafilalet - Annuaire statistique du Maroc 2019 (Tableau 118),2017-2018,
+8,Draa-Tafilalet,Mais,2600.0,25.15,Monographie HCP Draa-Tafilalet - Annuaire statistique du Maroc 2019 (Tableau 118),2017-2018,
+8,Draa-Tafilalet,Riz,,,Monographie HCP Draa-Tafilalet,2017-2018,Non disponible
+8,Draa-Tafilalet,Pois chiche,,,Monographie HCP Draa-Tafilalet - Annuaire statistique du Maroc 2019 (Tableau 120),2017-2018,Valeur region indiquee comme negligeable (tiret) pour cette campagne
+8,Draa-Tafilalet,Lentille,,,Monographie HCP Draa-Tafilalet - Annuaire statistique du Maroc 2019 (Tableau 120),2017-2018,Production donnee (200 qx) mais superficie non exploitable (indiquee comme negligeable) - rendement non calculable de facon fiable
+8,Draa-Tafilalet,Haricot,,,Monographie HCP Draa-Tafilalet,2017-2018,Non disponible
+8,Draa-Tafilalet,Tournesol,,,Monographie HCP Draa-Tafilalet,2017-2018,Non disponible dans les tableaux fournis
+8,Draa-Tafilalet,Olivier,,,Monographie HCP Draa-Tafilalet (Tableaux 63-64, ORMVATF/ORMVAO),2019-2022; Non disponible pour un total regional fiable - couverture provinciale incomplete (Tinghir absent;  Zagora 39400ha donnee sur annee differente sans production) - agreger produirait une sous-estimation trompeuse
+8,Draa-Tafilalet,Agrumes,,,Monographie HCP Draa-Tafilalet,2017-2018,Non disponible dans les tableaux fournis
+8,Draa-Tafilalet,Amandier,,,Monographie HCP Draa-Tafilalet,2017-2018,Non disponible dans les tableaux fournis
+8,Draa-Tafilalet,Figuier,,,Monographie HCP Draa-Tafilalet,2017-2018,Non disponible dans les tableaux fournis
+8,Draa-Tafilalet,Pommier,,,Monographie HCP Draa-Tafilalet (Tableau 57, ORMVATF/ORMVAO 2022),2022; Non disponible - alignement production/superficie par province ambigu dans la source (probable erreur de mise en page du tableau)
+8,Draa-Tafilalet,Vigne,,,Monographie HCP Draa-Tafilalet,2017-2018,Non disponible dans les tableaux fournis
+8,Draa-Tafilalet,Tomate,,,Monographie HCP Draa-Tafilalet,2017-2018,Non disponible dans les tableaux fournis
+8,Draa-Tafilalet,Pomme de terre,,,Monographie HCP Draa-Tafilalet,2017-2018,Non disponible dans les tableaux fournis
+8,Draa-Tafilalet,Oignon,,,Monographie HCP Draa-Tafilalet,2017-2018,Non disponible dans les tableaux fournis
+8,Draa-Tafilalet,Luzerne,,,Monographie HCP Draa-Tafilalet,2017-2018,Non disponible dans les tableaux fournis
+8,Draa-Tafilalet,Palmier dattier,,,Monographie HCP Draa-Tafilalet (Tableaux 53-54, ORMVAO/DRA-ORMVATF),2019-2022; Non disponible - Tableau 54 image clarifiee mais probleme conceptuel: colonne Zone extension (ha) semble mesurer uniquement les nouvelles plantations (programme Plan Maroc Vert);  pas la superficie totale des oasis existantes (incoherence flagrante: Ouarzazate 100ha pour 390700 palmiers = densite physiquement impossible). Combiner avec la production totale (Tableau 53) donnerait un rendement artificiellement gonfle. Necessite clarification aupres de DRA/ORMVATF sur la definition exacte avant utilisation
+9,Souss-Massa,Ble,14491.0,3.43,Monographie Souss-Massa Edition 2025 - Annuaire Statistique du Maroc 2024 (Figures 48-49),2022-2023,Ble dur (2865 ha 6.58 qx/ha) + ble tendre (11626 ha 2.66 qx/ha) combines - region a dominante irriguee;  cereales rendement faible car marginal/pluvial
+9,Souss-Massa,Orge,10113.0,4.23,Monographie Souss-Massa Edition 2025 - Annuaire Statistique du Maroc 2024 (Figures 48-49),2022-2023,
+9,Souss-Massa,Mais,177.0,31.89,Monographie Souss-Massa Edition 2025 - Annuaire Statistique du Maroc 2024 (Figures 48-49),2022-2023,
+9,Souss-Massa,Riz,,,Monographie Souss-Massa Edition 2025,2022-2023,Non disponible
+9,Souss-Massa,Pois chiche,,,Monographie Souss-Massa Edition 2025,2022-2023,Non disponible dans les tableaux fournis
+9,Souss-Massa,Lentille,,,Monographie Souss-Massa Edition 2025,2022-2023,Non disponible dans les tableaux fournis
+9,Souss-Massa,Haricot,,,Monographie Souss-Massa Edition 2025,2022-2023,Non disponible dans les tableaux fournis
+9,Souss-Massa,Tournesol,,,Monographie Souss-Massa Edition 2025,2022-2023,Non disponible dans les tableaux fournis
+9,Souss-Massa,Olivier,,,Monographie Souss-Massa Edition 2025,2022-2023,Non disponible dans les tableaux fournis
+9,Souss-Massa,Agrumes,39655.0,107.8,Monographie Souss-Massa Edition 2025 (Figure 51 - Total regional ensemble des varietes),2023-2024,Toutes varietes combinees (Clementine+Navel+Maroc-late+Autres) - baisse de rendement -27.2% vs campagne precedente signalee dans la source
+9,Souss-Massa,Amandier,,,Monographie Souss-Massa Edition 2025,2022-2023,Non disponible dans les tableaux fournis
+9,Souss-Massa,Figuier,,,Monographie Souss-Massa Edition 2025,2022-2023,Non disponible dans les tableaux fournis
+9,Souss-Massa,Pommier,,,Monographie Souss-Massa Edition 2025,2022-2023,Non disponible dans les tableaux fournis
+9,Souss-Massa,Vigne,,,Monographie Souss-Massa Edition 2025,2022-2023,Non disponible dans les tableaux fournis
+9,Souss-Massa,Tomate,7586.0,517.2,Monographie Souss-Massa Edition 2025 (Figure 50),2023-2024,Sous serre (7200 ha) + Plein champ (386 ha) combines
+9,Souss-Massa,Pomme de terre,1949.0,112.61,Monographie Souss-Massa Edition 2025 (Figure 50),2023-2024,Plein champ (1503 ha) + 2-Saison (446 ha) combines
+9,Souss-Massa,Oignon,128.0,181.25,Monographie Souss-Massa Edition 2025 (Figure 50),2020-2021,Campagne 2023-2024 disponible en superficie (710 ha) mais production non renseignee dans la source - valeur 2020-2021 utilisee par defaut (moins recente)
+9,Souss-Massa,Luzerne,,,Monographie Souss-Massa Edition 2025,2022-2023,Non disponible dans les tableaux fournis
+9,Souss-Massa,Palmier dattier,,,Monographie Souss-Massa Edition 2025,2022-2023,Non disponible dans les tableaux fournis
+10,Guelmim-Oued Noun,Ble,6947.0,1.9,DRA Guelmim-Oued Noun (Tableau 80),2019,Ble dur (2465 ha) + ble tendre (4482 ha) combines - region aride rendement cereales tres faible
+10,Guelmim-Oued Noun,Orge,6116.0,2.03,DRA Guelmim-Oued Noun (Tableau 80),2019,Verifie: source indique directement 12439 qx sur 6116 ha
+10,Guelmim-Oued Noun,Mais,,,DRA Guelmim-Oued Noun,2019,Non pratique - valeurs nulles dans le tableau
+10,Guelmim-Oued Noun,Riz,,,DRA Guelmim-Oued Noun,2019,Non disponible
+10,Guelmim-Oued Noun,Pois chiche,,,DRA Guelmim-Oued Noun,2019,Non disponible dans les tableaux fournis
+10,Guelmim-Oued Noun,Lentille,,,DRA Guelmim-Oued Noun,2019,Non disponible dans les tableaux fournis
+10,Guelmim-Oued Noun,Haricot,,,DRA Guelmim-Oued Noun,2019,Non disponible dans les tableaux fournis
+10,Guelmim-Oued Noun,Tournesol,,,DRA Guelmim-Oued Noun,2019,Non disponible dans les tableaux fournis
+10,Guelmim-Oued Noun,Olivier,,,DRA Guelmim-Oued Noun (Tableau 83),2019,Non disponible - source donne uniquement le nombre de pieds (235700 pieds au niveau regional) pas la superficie en ha ni la production - unite non comparable
+10,Guelmim-Oued Noun,Agrumes,,,DRA Guelmim-Oued Noun,2019,Non disponible dans les tableaux fournis
+10,Guelmim-Oued Noun,Amandier,,,DRA Guelmim-Oued Noun (Tableau 83),2019,Non disponible - uniquement nombre de pieds fourni (92600 pieds regional);  pas de superficie ni production
+10,Guelmim-Oued Noun,Figuier,,,DRA Guelmim-Oued Noun,2019,Non disponible dans les tableaux fournis
+10,Guelmim-Oued Noun,Pommier,,,DRA Guelmim-Oued Noun,2019,Non disponible dans les tableaux fournis
+10,Guelmim-Oued Noun,Vigne,,,DRA Guelmim-Oued Noun,2019,Non disponible dans les tableaux fournis
+10,Guelmim-Oued Noun,Tomate,,,DRA Guelmim-Oued Noun (Tableau 81),2019,Non disponible au niveau regional - seule la province de Guelmim est detaillee (310 ha 26500 qx);  pas de total pour les 4 provinces
+10,Guelmim-Oued Noun,Pomme de terre,,,DRA Guelmim-Oued Noun (Tableau 81),2019,Non disponible au niveau regional - seule la province de Guelmim est detaillee (300 ha 6600 qx);  pas de total regional
+10,Guelmim-Oued Noun,Oignon,,,DRA Guelmim-Oued Noun (Tableau 81),2019,Non disponible au niveau regional - seule la province de Guelmim est detaillee (120 ha 120 qx;  rendement suspect a 1 qx/ha - possible erreur ou definition differente dans la source);  pas de total regional
+10,Guelmim-Oued Noun,Luzerne,1235.0,59.0,DRA Guelmim-Oued Noun (Tableau 82),2019,Total regional disponible et coherent (72865/1235=59.0)
+10,Guelmim-Oued Noun,Palmier dattier,,,DRA Guelmim-Oued Noun (Tableau 83),2019,Non disponible - uniquement nombre de pieds fourni (224300 pieds regional);  pas de superficie ni production
+11,Laayoune-Sakia El Hamra,Ble,4200.0,15.0,DRA Laayoune-Sakia El Hamra (Tableau 27),2018,Ble dur (3000 ha;  province Es-Semara) + ble tendre (1200 ha) combines - verifie (45000+18000)/4200=15.0
+11,Laayoune-Sakia El Hamra,Orge,800.0,15.0,DRA Laayoune-Sakia El Hamra (Tableau 27),2018,Province Es-Semara - conversion tonne/ha vers qx/ha (x10)
+11,Laayoune-Sakia El Hamra,Mais,400.0,60.0,DRA Laayoune-Sakia El Hamra (Tableau 27),2018,Province Laayoune - conversion tonne/ha vers qx/ha (x10)
+11,Laayoune-Sakia El Hamra,Riz,,,DRA Laayoune-Sakia El Hamra,2018,Non disponible
+11,Laayoune-Sakia El Hamra,Pois chiche,,,DRA Laayoune-Sakia El Hamra,2018,Non disponible dans les tableaux fournis
+11,Laayoune-Sakia El Hamra,Lentille,,,DRA Laayoune-Sakia El Hamra,2018,Non disponible dans les tableaux fournis
+11,Laayoune-Sakia El Hamra,Haricot,,,DRA Laayoune-Sakia El Hamra,2018,Non disponible dans les tableaux fournis
+11,Laayoune-Sakia El Hamra,Tournesol,,,DRA Laayoune-Sakia El Hamra,2018,Non disponible dans les tableaux fournis
+11,Laayoune-Sakia El Hamra,Olivier,,,DRA Laayoune-Sakia El Hamra,2018,Non disponible - culture peu adaptee/non pratiquee dans cette region desertique
+11,Laayoune-Sakia El Hamra,Agrumes,,,DRA Laayoune-Sakia El Hamra,2018,Non disponible dans les tableaux fournis
+11,Laayoune-Sakia El Hamra,Amandier,,,DRA Laayoune-Sakia El Hamra,2018,Non disponible dans les tableaux fournis
+11,Laayoune-Sakia El Hamra,Figuier,,,DRA Laayoune-Sakia El Hamra,2018,Non disponible dans les tableaux fournis
+11,Laayoune-Sakia El Hamra,Pommier,,,DRA Laayoune-Sakia El Hamra,2018,Non disponible dans les tableaux fournis
+11,Laayoune-Sakia El Hamra,Vigne,,,DRA Laayoune-Sakia El Hamra,2018,Non disponible dans les tableaux fournis
+11,Laayoune-Sakia El Hamra,Tomate,,,DRA Laayoune-Sakia El Hamra (Tableau 28),2016,Non disponible - le Tableau 28 (2016) couvre d'autres cultures maraicheres/aromatiques (persil;  celeri;  coriandre;  artichaut;  carottes;  radis) ne recoupant pas Tomate
+11,Laayoune-Sakia El Hamra,Pomme de terre,,,DRA Laayoune-Sakia El Hamra,2016,Non disponible - meme source;  culture non listee dans le Tableau 28
+11,Laayoune-Sakia El Hamra,Oignon,,,DRA Laayoune-Sakia El Hamra,2016,Non disponible - meme source;  culture non listee dans le Tableau 28
+11,Laayoune-Sakia El Hamra,Luzerne,,,DRA Laayoune-Sakia El Hamra (Tableau 27),2018,Non disponible - seule une categorie generique Fourrages (200 ha;  60 qx/ha;  province de Laayoune) est fournie;  non specifique a la luzerne
+11,Laayoune-Sakia El Hamra,Palmier dattier,,,DRA Laayoune-Sakia El Hamra,2018,Non disponible dans les tableaux fournis
+12,Dakhla-Oued Ed Dahab,Ble,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non disponible - aucune culture cerealiere tracee dans cette region desertique
+12,Dakhla-Oued Ed Dahab,Orge,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non disponible - idem
+12,Dakhla-Oued Ed Dahab,Mais,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non disponible - idem
+12,Dakhla-Oued Ed Dahab,Riz,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non disponible
+12,Dakhla-Oued Ed Dahab,Pois chiche,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non disponible
+12,Dakhla-Oued Ed Dahab,Lentille,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non disponible
+12,Dakhla-Oued Ed Dahab,Haricot,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non disponible
+12,Dakhla-Oued Ed Dahab,Tournesol,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non disponible
+12,Dakhla-Oued Ed Dahab,Olivier,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non disponible - non pratique dans cette region
+12,Dakhla-Oued Ed Dahab,Agrumes,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non disponible
+12,Dakhla-Oued Ed Dahab,Amandier,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non disponible
+12,Dakhla-Oued Ed Dahab,Figuier,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non disponible
+12,Dakhla-Oued Ed Dahab,Pommier,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non disponible
+12,Dakhla-Oued Ed Dahab,Vigne,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non disponible
+12,Dakhla-Oued Ed Dahab,Tomate,,,DRA Dakhla-Oued Ed Dahab (Tableaux 29-30),2016-2015,Non ventile - inclus dans categorie agregee Cultures maraicheres (385.8 ha total region toutes especes confondues;  rendement source ~1000 q/ha;  production 311120 q) - isoler Tomate specifiquement impossible sans invention
+12,Dakhla-Oued Ed Dahab,Pomme de terre,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non ventile - inclus dans categorie agregee Cultures maraicheres
+12,Dakhla-Oued Ed Dahab,Oignon,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non ventile - inclus dans categorie agregee Cultures maraicheres
+12,Dakhla-Oued Ed Dahab,Luzerne,,,DRA Dakhla-Oued Ed Dahab (Tableaux 29-30),2016-2015,Non ventile - inclus dans categorie agregee Cultures fourrageres (39 ha total region;  rendement 470 q/ha verifie: 18330/39=470.0)
+12,Dakhla-Oued Ed Dahab,Palmier dattier,,,DRA Dakhla-Oued Ed Dahab,2016-2015,Non disponible - non pratique dans cette region cotiere/desertique

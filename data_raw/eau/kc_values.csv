@@ -1,0 +1,20 @@
+culture,kc_mid,source,note
+Ble,1.15,FAO-56 Table 12 (Allen et al. 1998),Wheat (Spring/Winter)
+Orge,1.15,FAO-56 Table 12 (Allen et al. 1998),Barley
+Mais,1.20,FAO-56 Table 12 (Allen et al. 1998),Maize Field (grain)
+Riz,1.20,FAO-56 Table 12 (Allen et al. 1998),Rice
+Pois chiche,1.00,FAO-56 Table 12 (Allen et al. 1998),Chick pea
+Lentille,1.10,FAO-56 Table 12 (Allen et al. 1998),Lentil
+Haricot,1.15,FAO-56 Table 12 (Allen et al. 1998),Beans dry and Pulses
+Tournesol,1.075,FAO-56 Table 12 (Allen et al. 1998),Sunflower - moyenne de la fourchette 1.00-1.15
+Olivier,0.70,FAO-56 Table 12 (Allen et al. 1998),Olives 40-60% ground coverage
+Agrumes,0.65,FAO-56 Table 12 (Allen et al. 1998),Citrus sans couvert vegetal 70% canopy
+Amandier,0.90,FAO-56 Table 12 (Allen et al. 1998),Almonds sans couvert vegetal
+Figuier,0.60,Paredes et al. 2024 Irrigation Science (mise a jour FAO-56),Fig tree - categorie faible densite <400 plants/ha
+Pommier,0.95,FAO-56 Table 12 (Allen et al. 1998),Apples sans couvert vegetal sans gel
+Vigne,0.85,FAO-56 Table 12 (Allen et al. 1998),Grapes Table or Raisin
+Tomate,1.15,FAO-56 Table 12 (Allen et al. 1998),Tomato
+Pomme de terre,1.15,FAO-56 Table 12 (Allen et al. 1998),Potato
+Oignon,1.05,FAO-56 Table 12 (Allen et al. 1998),Onions dry
+Luzerne,0.95,FAO-56 Table 12 (Allen et al. 1998),Alfalfa Hay moyenne effet des coupes
+Palmier dattier,0.95,FAO-56 Table 12 (Allen et al. 1998),Date Palms

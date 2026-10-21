@@ -1,0 +1,61 @@
+region_id,region,propriete,recuperee,nb_profondeurs_ok
+1,Tanger-Tetouan-Al Hoceima,phh2o,True,3
+1,Tanger-Tetouan-Al Hoceima,clay,True,3
+1,Tanger-Tetouan-Al Hoceima,sand,True,3
+1,Tanger-Tetouan-Al Hoceima,silt,True,3
+1,Tanger-Tetouan-Al Hoceima,soc,True,3
+2,Oriental,phh2o,True,3
+2,Oriental,clay,True,3
+2,Oriental,sand,True,3
+2,Oriental,silt,True,3
+2,Oriental,soc,True,3
+3,Fes-Meknes,phh2o,True,3
+3,Fes-Meknes,clay,True,3
+3,Fes-Meknes,sand,True,3
+3,Fes-Meknes,silt,True,3
+3,Fes-Meknes,soc,True,3
+4,Rabat-Sale-Kenitra,phh2o,True,3
+4,Rabat-Sale-Kenitra,clay,True,3
+4,Rabat-Sale-Kenitra,sand,True,3
+4,Rabat-Sale-Kenitra,silt,True,3
+4,Rabat-Sale-Kenitra,soc,True,3
+5,Beni Mellal-Khenifra,phh2o,True,3
+5,Beni Mellal-Khenifra,clay,True,3
+5,Beni Mellal-Khenifra,sand,True,3
+5,Beni Mellal-Khenifra,silt,True,3
+5,Beni Mellal-Khenifra,soc,True,3
+6,Casablanca-Settat,phh2o,True,3
+6,Casablanca-Settat,clay,True,3
+6,Casablanca-Settat,sand,True,3
+6,Casablanca-Settat,silt,True,3
+6,Casablanca-Settat,soc,True,3
+7,Marrakech-Safi,phh2o,True,3
+7,Marrakech-Safi,clay,True,3
+7,Marrakech-Safi,sand,True,3
+7,Marrakech-Safi,silt,True,3
+7,Marrakech-Safi,soc,True,3
+8,Draa-Tafilalet,phh2o,True,3
+8,Draa-Tafilalet,clay,True,3
+8,Draa-Tafilalet,sand,True,3
+8,Draa-Tafilalet,silt,True,3
+8,Draa-Tafilalet,soc,True,3
+9,Souss-Massa,phh2o,True,3
+9,Souss-Massa,clay,True,3
+9,Souss-Massa,sand,True,3
+9,Souss-Massa,silt,True,3
+9,Souss-Massa,soc,True,3
+10,Guelmim-Oued Noun,phh2o,True,3
+10,Guelmim-Oued Noun,clay,True,3
+10,Guelmim-Oued Noun,sand,True,3
+10,Guelmim-Oued Noun,silt,True,3
+10,Guelmim-Oued Noun,soc,True,3
+11,Laayoune-Sakia El Hamra,phh2o,True,3
+11,Laayoune-Sakia El Hamra,clay,True,3
+11,Laayoune-Sakia El Hamra,sand,True,3
+11,Laayoune-Sakia El Hamra,silt,True,3
+11,Laayoune-Sakia El Hamra,soc,True,3
+12,Dakhla-Oued Ed Dahab,phh2o,False,0
+12,Dakhla-Oued Ed Dahab,clay,False,0
+12,Dakhla-Oued Ed Dahab,sand,False,0
+12,Dakhla-Oued Ed Dahab,silt,False,0
+12,Dakhla-Oued Ed Dahab,soc,False,0

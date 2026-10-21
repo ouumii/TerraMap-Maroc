@@ -1,0 +1,229 @@
+region_id,region,culture,score_temp,score_rainfall,score_ph,score_rendement
+1,Tanger-Tetouan-Al Hoceima,Oignon,1.0,0.8604090909090909,0.8461538461538461,0.8461538461538461
+1,Tanger-Tetouan-Al Hoceima,Agrumes,0.5800000000000001,0.6094666666666667,0.5333333333333332,0.5333333333333332
+1,Tanger-Tetouan-Al Hoceima,Figuier,1.0,1.0,0.8749999999999999,0.8749999999999999
+1,Tanger-Tetouan-Al Hoceima,Tournesol,1.0,1.0,1.0,1.0
+1,Tanger-Tetouan-Al Hoceima,Orge,1.0,1.0,1.0,1.0
+1,Tanger-Tetouan-Al Hoceima,Tomate,0.9076923076923078,1.0,0.4285714285714282,0.4285714285714282
+1,Tanger-Tetouan-Al Hoceima,Pommier,1.0,1.0,0.7999999999999998,0.7999999999999998
+1,Tanger-Tetouan-Al Hoceima,Luzerne,0.8625,1.0,1.0,0.8625
+1,Tanger-Tetouan-Al Hoceima,Olivier,0.92,0.5858,0.8666666666666666,0.5858
+1,Tanger-Tetouan-Al Hoceima,Riz,0.8800000000000001,0.0,0.8999999999999999,0.0
+1,Tanger-Tetouan-Al Hoceima,Haricot,1.0,1.0,1.0,1.0
+1,Tanger-Tetouan-Al Hoceima,Palmier dattier,0.55,0.0,1.0,0.0
+1,Tanger-Tetouan-Al Hoceima,Pomme de terre,1.0,0.9107500000000001,0.5652173913043478,0.5652173913043478
+1,Tanger-Tetouan-Al Hoceima,Ble,1.0,0.9898571428571429,0.8666666666666666,0.8666666666666666
+1,Tanger-Tetouan-Al Hoceima,Vigne,1.0,0.8368571428571427,1.0,0.8368571428571427
+1,Tanger-Tetouan-Al Hoceima,Mais,1.0,1.0,0.8666666666666666,0.8666666666666666
+1,Tanger-Tetouan-Al Hoceima,Amandier,1.0,0.9881666666666666,0.7999999999999998,0.7999999999999998
+1,Tanger-Tetouan-Al Hoceima,Pois chiche,1.0,1.0,1.0,1.0
+1,Tanger-Tetouan-Al Hoceima,Lentille,1.0,1.0,1.0,1.0
+2,Oriental,Oignon,1.0,0.0,0.3076923076923078,0.0
+2,Oriental,Agrumes,0.6199999999999999,0.0,0.06666666666666643,0.0
+2,Oriental,Figuier,1.0,0.0,0.43749999999999967,0.0
+2,Oriental,Tournesol,1.0,0.0,0.1999999999999993,0.0
+2,Oriental,Orge,1.0,0.3020000000000001,0.1999999999999993,0.1999999999999993
+2,Oriental,Tomate,0.9384615384615385,0.0,0.0,0.0
+2,Oriental,Pommier,1.0,0.0,0.09999999999999964,0.0
+2,Oriental,Luzerne,0.8875,0.0,0.6666666666666662,0.0
+2,Oriental,Olivier,0.9466666666666667,0.4530000000000001,0.39999999999999974,0.39999999999999974
+2,Oriental,Riz,0.9199999999999999,0.0,0.5499999999999998,0.0
+2,Oriental,Haricot,1.0,0.0,0.7333333333333331,0.0
+2,Oriental,Palmier dattier,0.575,1.0,1.0,0.575
+2,Oriental,Pomme de terre,1.0,0.1624000000000001,0.2608695652173912,0.1624000000000001
+2,Oriental,Ble,1.0,0.0,0.39999999999999974,0.0
+2,Oriental,Vigne,1.0,0.0,0.5999999999999996,0.0
+2,Oriental,Mais,1.0,0.0,0.39999999999999974,0.0
+2,Oriental,Amandier,1.0,0.11600000000000006,0.09999999999999964,0.09999999999999964
+2,Oriental,Pois chiche,1.0,0.0,1.0,0.0
+2,Oriental,Lentille,1.0,0.11600000000000006,0.4285714285714275,0.11600000000000006
+3,Fes-Meknes,Oignon,1.0,0.9927272727272727,0.2307692307692312,0.2307692307692312
+3,Fes-Meknes,Agrumes,0.6699999999999999,0.22133333333333333,0.0,0.0
+3,Fes-Meknes,Figuier,1.0,0.79,0.37499999999999983,0.37499999999999983
+3,Fes-Meknes,Tournesol,1.0,1.0,0.0,0.0
+3,Fes-Meknes,Orge,1.0,1.0,0.0,0.0
+3,Fes-Meknes,Tomate,0.9769230769230769,1.0,0.0,0.0
+3,Fes-Meknes,Pommier,1.0,0.58,0.0,0.0
+3,Fes-Meknes,Luzerne,0.91875,1.0,0.583333333333333,0.583333333333333
+3,Fes-Meknes,Olivier,0.98,1.0,0.3333333333333333,0.3333333333333333
+3,Fes-Meknes,Riz,0.97,0.0,0.5,0.0
+3,Fes-Meknes,Haricot,1.0,1.0,0.6666666666666666,0.6666666666666666
+3,Fes-Meknes,Palmier dattier,0.60625,0.0,1.0,0.0
+3,Fes-Meknes,Pomme de terre,1.0,1.0,0.2173913043478261,0.2173913043478261
+3,Fes-Meknes,Ble,1.0,0.7022222222222222,0.3333333333333333,0.3333333333333333
+3,Fes-Meknes,Vigne,1.0,0.72,0.5,0.5
+3,Fes-Meknes,Mais,1.0,1.0,0.3333333333333333,0.3333333333333333
+3,Fes-Meknes,Amandier,1.0,1.0,0.0,0.0
+3,Fes-Meknes,Pois chiche,1.0,1.0,1.0,1.0
+3,Fes-Meknes,Lentille,1.0,1.0,0.285714285714285,0.285714285714285
+4,Rabat-Sale-Kenitra,Oignon,1.0,0.9461818181818181,1.0,0.9461818181818181
+4,Rabat-Sale-Kenitra,Agrumes,0.5800000000000001,0.3578666666666666,0.6666666666666666,0.3578666666666666
+4,Rabat-Sale-Kenitra,Figuier,1.0,1.0,1.0,1.0
+4,Rabat-Sale-Kenitra,Tournesol,1.0,1.0,1.0,1.0
+4,Rabat-Sale-Kenitra,Orge,1.0,1.0,1.0,1.0
+4,Rabat-Sale-Kenitra,Tomate,0.9076923076923078,1.0,0.7142857142857141,0.7142857142857141
+4,Rabat-Sale-Kenitra,Pommier,1.0,1.0,1.0,1.0
+4,Rabat-Sale-Kenitra,Luzerne,0.8625,1.0,1.0,0.8625
+4,Rabat-Sale-Kenitra,Olivier,0.92,0.9632000000000001,1.0,0.92
+4,Rabat-Sale-Kenitra,Riz,0.8800000000000001,0.0,1.0,0.0
+4,Rabat-Sale-Kenitra,Haricot,1.0,1.0,1.0,1.0
+4,Rabat-Sale-Kenitra,Palmier dattier,0.55,0.0,1.0,0.0
+4,Rabat-Sale-Kenitra,Pomme de terre,1.0,1.0,0.6521739130434783,0.6521739130434783
+4,Rabat-Sale-Kenitra,Ble,1.0,0.9297777777777777,1.0,0.9297777777777777
+4,Rabat-Sale-Kenitra,Vigne,1.0,1.0,1.0,1.0
+4,Rabat-Sale-Kenitra,Mais,1.0,1.0,1.0,1.0
+4,Rabat-Sale-Kenitra,Amandier,1.0,1.0,1.0,1.0
+4,Rabat-Sale-Kenitra,Pois chiche,1.0,1.0,1.0,1.0
+4,Rabat-Sale-Kenitra,Lentille,1.0,1.0,1.0,1.0
+5,Beni Mellal-Khenifra,Oignon,1.0,0.9444545454545455,0.7692307692307695,0.7692307692307695
+5,Beni Mellal-Khenifra,Agrumes,0.85,0.3629333333333334,0.4666666666666668,0.3629333333333334
+5,Beni Mellal-Khenifra,Figuier,1.0,1.0,0.8125000000000001,0.8125000000000001
+5,Beni Mellal-Khenifra,Tournesol,1.0,1.0,1.0,1.0
+5,Beni Mellal-Khenifra,Orge,0.925,1.0,1.0,0.925
+5,Beni Mellal-Khenifra,Tomate,1.0,1.0,0.2857142857142859,0.2857142857142859
+5,Beni Mellal-Khenifra,Pommier,1.0,1.0,0.7000000000000002,0.7000000000000002
+5,Beni Mellal-Khenifra,Luzerne,1.0,1.0,1.0,1.0
+5,Beni Mellal-Khenifra,Olivier,1.0,0.9555999999999999,0.8000000000000002,0.8000000000000002
+5,Beni Mellal-Khenifra,Riz,1.0,0.0,0.8500000000000001,0.0
+5,Beni Mellal-Khenifra,Haricot,1.0,1.0,1.0,1.0
+5,Beni Mellal-Khenifra,Palmier dattier,0.71875,0.0,1.0,0.0
+5,Beni Mellal-Khenifra,Pomme de terre,1.0,1.0,0.5217391304347827,0.5217391304347827
+5,Beni Mellal-Khenifra,Ble,1.0,0.9382222222222223,0.8000000000000002,0.8000000000000002
+5,Beni Mellal-Khenifra,Vigne,1.0,1.0,1.0,1.0
+5,Beni Mellal-Khenifra,Mais,1.0,1.0,0.8000000000000002,0.8000000000000002
+5,Beni Mellal-Khenifra,Amandier,1.0,1.0,0.7000000000000002,0.7000000000000002
+5,Beni Mellal-Khenifra,Pois chiche,1.0,1.0,1.0,1.0
+5,Beni Mellal-Khenifra,Lentille,1.0,1.0,1.0,1.0
+6,Casablanca-Settat,Oignon,1.0,1.0,1.0,1.0
+6,Casablanca-Settat,Agrumes,0.5899999999999999,0.11573333333333327,0.7333333333333331,0.11573333333333327
+6,Casablanca-Settat,Figuier,1.0,0.5919999999999999,1.0,0.5919999999999999
+6,Casablanca-Settat,Tournesol,1.0,0.7893333333333332,1.0,0.7893333333333332
+6,Casablanca-Settat,Orge,1.0,1.0,1.0,1.0
+6,Casablanca-Settat,Tomate,0.9153846153846152,0.6839999999999997,0.8571428571428564,0.6839999999999997
+6,Casablanca-Settat,Pommier,1.0,0.18399999999999977,1.0,0.18399999999999977
+6,Casablanca-Settat,Luzerne,0.8687499999999999,0.7471999999999999,1.0,0.7471999999999999
+6,Casablanca-Settat,Olivier,0.9266666666666665,1.0,1.0,0.9266666666666665
+6,Casablanca-Settat,Riz,0.8899999999999999,0.0,1.0,0.0
+6,Casablanca-Settat,Haricot,1.0,1.0,1.0,1.0
+6,Casablanca-Settat,Palmier dattier,0.5562499999999999,0.0,1.0,0.0
+6,Casablanca-Settat,Pomme de terre,1.0,1.0,0.6956521739130433,0.6956521739130433
+6,Casablanca-Settat,Ble,1.0,0.5262222222222221,1.0,0.5262222222222221
+6,Casablanca-Settat,Vigne,1.0,0.45599999999999985,1.0,0.45599999999999985
+6,Casablanca-Settat,Mais,1.0,0.6839999999999997,1.0,0.6839999999999997
+6,Casablanca-Settat,Amandier,1.0,0.8194285714285713,1.0,0.8194285714285713
+6,Casablanca-Settat,Pois chiche,1.0,0.7893333333333332,1.0,0.7893333333333332
+6,Casablanca-Settat,Lentille,1.0,0.8194285714285713,1.0,0.8194285714285713
+7,Marrakech-Safi,Oignon,1.0,1.0,0.2307692307692312,0.2307692307692312
+7,Marrakech-Safi,Agrumes,0.85,0.0,0.0,0.0
+7,Marrakech-Safi,Figuier,1.0,0.17849999999999994,0.37499999999999983,0.17849999999999994
+7,Marrakech-Safi,Tournesol,1.0,0.23799999999999993,0.0,0.0
+7,Marrakech-Safi,Orge,0.925,0.5713333333333332,0.0,0.0
+7,Marrakech-Safi,Tomate,1.0,0.0,0.0,0.0
+7,Marrakech-Safi,Pommier,1.0,0.0,0.0,0.0
+7,Marrakech-Safi,Luzerne,1.0,0.08559999999999991,0.583333333333333,0.08559999999999991
+7,Marrakech-Safi,Olivier,1.0,0.8569999999999999,0.3333333333333333,0.3333333333333333
+7,Marrakech-Safi,Riz,1.0,0.0,0.5,0.0
+7,Marrakech-Safi,Haricot,1.0,0.3569999999999999,0.6666666666666666,0.3569999999999999
+7,Marrakech-Safi,Palmier dattier,0.71875,0.28600000000000025,1.0,0.28600000000000025
+7,Marrakech-Safi,Pomme de terre,1.0,0.4855999999999999,0.2173913043478261,0.2173913043478261
+7,Marrakech-Safi,Ble,1.0,0.15866666666666662,0.3333333333333333,0.15866666666666662
+7,Marrakech-Safi,Vigne,1.0,0.0,0.5,0.0
+7,Marrakech-Safi,Mais,1.0,0.0,0.3333333333333333,0.0
+7,Marrakech-Safi,Amandier,1.0,0.3468571428571428,0.0,0.0
+7,Marrakech-Safi,Pois chiche,1.0,0.23799999999999993,1.0,0.23799999999999993
+7,Marrakech-Safi,Lentille,1.0,0.3468571428571428,0.285714285714285,0.285714285714285
+8,Draa-Tafilalet,Oignon,1.0,0.0,0.07692307692307797,0.0
+8,Draa-Tafilalet,Agrumes,0.68,0.0,0.0,0.0
+8,Draa-Tafilalet,Figuier,1.0,0.0,0.2500000000000003,0.0
+8,Draa-Tafilalet,Tournesol,1.0,0.0,0.0,0.0
+8,Draa-Tafilalet,Orge,1.0,0.0,0.0,0.0
+8,Draa-Tafilalet,Tomate,0.9846153846153847,0.0,0.0,0.0
+8,Draa-Tafilalet,Pommier,1.0,0.0,0.0,0.0
+8,Draa-Tafilalet,Luzerne,0.925,0.0,0.4166666666666669,0.0
+8,Draa-Tafilalet,Olivier,0.9866666666666667,0.0,0.20000000000000048,0.0
+8,Draa-Tafilalet,Riz,0.9800000000000001,0.0,0.40000000000000036,0.0
+8,Draa-Tafilalet,Haricot,1.0,0.0,0.5333333333333338,0.0
+8,Draa-Tafilalet,Palmier dattier,0.6125,0.9840000000000001,0.6000000000000014,0.6000000000000014
+8,Draa-Tafilalet,Pomme de terre,1.0,0.0,0.13043478260869598,0.0
+8,Draa-Tafilalet,Ble,1.0,0.0,0.20000000000000048,0.0
+8,Draa-Tafilalet,Vigne,1.0,0.0,0.3000000000000007,0.0
+8,Draa-Tafilalet,Mais,1.0,0.0,0.20000000000000048,0.0
+8,Draa-Tafilalet,Amandier,1.0,0.0,0.0,0.0
+8,Draa-Tafilalet,Pois chiche,1.0,0.0,1.0,0.0
+8,Draa-Tafilalet,Lentille,1.0,0.0,0.0,0.0
+9,Souss-Massa,Oignon,1.0,0.0,0.4615384615384617,0.0
+9,Souss-Massa,Agrumes,0.7600000000000001,0.0,0.19999999999999987,0.0
+9,Souss-Massa,Figuier,1.0,0.0,0.5624999999999998,0.0
+9,Souss-Massa,Tournesol,1.0,0.0,0.5999999999999996,0.0
+9,Souss-Massa,Orge,0.97,0.0,0.5999999999999996,0.0
+9,Souss-Massa,Tomate,1.0,0.0,0.0,0.0
+9,Souss-Massa,Pommier,1.0,0.0,0.2999999999999998,0.0
+9,Souss-Massa,Luzerne,0.9750000000000001,0.0,0.833333333333333,0.0
+9,Souss-Massa,Olivier,1.0,0.0,0.5333333333333332,0.0
+9,Souss-Massa,Riz,1.0,0.0,0.6499999999999999,0.0
+9,Souss-Massa,Haricot,1.0,0.0,0.8666666666666666,0.0
+9,Souss-Massa,Palmier dattier,0.6625000000000001,0.9990000000000001,1.0,0.6625000000000001
+9,Souss-Massa,Pomme de terre,1.0,0.0,0.3478260869565217,0.0
+9,Souss-Massa,Ble,1.0,0.0,0.5333333333333332,0.0
+9,Souss-Massa,Vigne,1.0,0.0,0.7999999999999998,0.0
+9,Souss-Massa,Mais,1.0,0.0,0.5333333333333332,0.0
+9,Souss-Massa,Amandier,1.0,0.0,0.2999999999999998,0.0
+9,Souss-Massa,Pois chiche,1.0,0.0,1.0,0.0
+9,Souss-Massa,Lentille,1.0,0.0,0.7142857142857137,0.0
+10,Guelmim-Oued Noun,Oignon,1.0,0.0,0.15384615384615458,0.0
+10,Guelmim-Oued Noun,Agrumes,0.6899999999999998,0.0,0.0,0.0
+10,Guelmim-Oued Noun,Figuier,1.0,0.0,0.31250000000000006,0.0
+10,Guelmim-Oued Noun,Tournesol,1.0,0.0,0.0,0.0
+10,Guelmim-Oued Noun,Orge,1.0,0.0,0.0,0.0
+10,Guelmim-Oued Noun,Tomate,0.9923076923076922,0.0,0.0,0.0
+10,Guelmim-Oued Noun,Pommier,1.0,0.0,0.0,0.0
+10,Guelmim-Oued Noun,Luzerne,0.9312499999999999,0.0,0.5,0.0
+10,Guelmim-Oued Noun,Olivier,0.9933333333333333,0.0,0.2666666666666669,0.0
+10,Guelmim-Oued Noun,Riz,0.9899999999999999,0.0,0.4500000000000002,0.0
+10,Guelmim-Oued Noun,Haricot,1.0,0.0,0.6000000000000002,0.0
+10,Guelmim-Oued Noun,Palmier dattier,0.6187499999999999,0.0,0.8000000000000007,0.0
+10,Guelmim-Oued Noun,Pomme de terre,1.0,0.0,0.17391304347826103,0.0
+10,Guelmim-Oued Noun,Ble,1.0,0.0,0.2666666666666669,0.0
+10,Guelmim-Oued Noun,Vigne,1.0,0.0,0.40000000000000036,0.0
+10,Guelmim-Oued Noun,Mais,1.0,0.0,0.2666666666666669,0.0
+10,Guelmim-Oued Noun,Amandier,1.0,0.0,0.0,0.0
+10,Guelmim-Oued Noun,Pois chiche,1.0,0.0,1.0,0.0
+10,Guelmim-Oued Noun,Lentille,1.0,0.0,0.1428571428571425,0.0
+11,Laayoune-Sakia El Hamra,Oignon,1.0,0.0,0.15384615384615458,0.0
+11,Laayoune-Sakia El Hamra,Agrumes,0.7899999999999998,0.0,0.0,0.0
+11,Laayoune-Sakia El Hamra,Figuier,1.0,0.0,0.31250000000000006,0.0
+11,Laayoune-Sakia El Hamra,Tournesol,1.0,0.0,0.0,0.0
+11,Laayoune-Sakia El Hamra,Orge,0.9550000000000001,0.0,0.0,0.0
+11,Laayoune-Sakia El Hamra,Tomate,1.0,0.0,0.0,0.0
+11,Laayoune-Sakia El Hamra,Pommier,1.0,0.0,0.0,0.0
+11,Laayoune-Sakia El Hamra,Luzerne,0.9937499999999999,0.0,0.5,0.0
+11,Laayoune-Sakia El Hamra,Olivier,1.0,0.0,0.2666666666666669,0.0
+11,Laayoune-Sakia El Hamra,Riz,1.0,0.0,0.4500000000000002,0.0
+11,Laayoune-Sakia El Hamra,Haricot,1.0,0.0,0.6000000000000002,0.0
+11,Laayoune-Sakia El Hamra,Palmier dattier,0.6812499999999999,0.0,0.8000000000000007,0.0
+11,Laayoune-Sakia El Hamra,Pomme de terre,1.0,0.0,0.17391304347826103,0.0
+11,Laayoune-Sakia El Hamra,Ble,1.0,0.0,0.2666666666666669,0.0
+11,Laayoune-Sakia El Hamra,Vigne,1.0,0.0,0.40000000000000036,0.0
+11,Laayoune-Sakia El Hamra,Mais,1.0,0.0,0.2666666666666669,0.0
+11,Laayoune-Sakia El Hamra,Amandier,1.0,0.0,0.0,0.0
+11,Laayoune-Sakia El Hamra,Pois chiche,1.0,0.0,1.0,0.0
+11,Laayoune-Sakia El Hamra,Lentille,1.0,0.0,0.1428571428571425,0.0
+12,Dakhla-Oued Ed Dahab,Oignon,1.0,0.0,0.07692307692307797,0.0
+12,Dakhla-Oued Ed Dahab,Agrumes,0.7699999999999999,0.0,0.0,0.0
+12,Dakhla-Oued Ed Dahab,Figuier,1.0,0.0,0.2500000000000003,0.0
+12,Dakhla-Oued Ed Dahab,Tournesol,1.0,0.0,0.0,0.0
+12,Dakhla-Oued Ed Dahab,Orge,0.9650000000000001,0.0,0.0,0.0
+12,Dakhla-Oued Ed Dahab,Tomate,1.0,0.0,0.0,0.0
+12,Dakhla-Oued Ed Dahab,Pommier,1.0,0.0,0.0,0.0
+12,Dakhla-Oued Ed Dahab,Luzerne,0.98125,0.0,0.4166666666666669,0.0
+12,Dakhla-Oued Ed Dahab,Olivier,1.0,0.0,0.20000000000000048,0.0
+12,Dakhla-Oued Ed Dahab,Riz,1.0,0.0,0.40000000000000036,0.0
+12,Dakhla-Oued Ed Dahab,Haricot,1.0,0.0,0.5333333333333338,0.0
+12,Dakhla-Oued Ed Dahab,Palmier dattier,0.66875,0.0,0.6000000000000014,0.0
+12,Dakhla-Oued Ed Dahab,Pomme de terre,1.0,0.0,0.13043478260869598,0.0
+12,Dakhla-Oued Ed Dahab,Ble,1.0,0.0,0.20000000000000048,0.0
+12,Dakhla-Oued Ed Dahab,Vigne,1.0,0.0,0.3000000000000007,0.0
+12,Dakhla-Oued Ed Dahab,Mais,1.0,0.0,0.20000000000000048,0.0
+12,Dakhla-Oued Ed Dahab,Amandier,1.0,0.0,0.0,0.0
+12,Dakhla-Oued Ed Dahab,Pois chiche,1.0,0.0,1.0,0.0
+12,Dakhla-Oued Ed Dahab,Lentille,1.0,0.0,0.0,0.0

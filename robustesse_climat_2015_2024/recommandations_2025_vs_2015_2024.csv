@@ -1,0 +1,37 @@
+﻿region_id,region,alpha,recommandation_2025,recommandation_2015_2024,identique
+1,Tanger-Tetouan-Al Hoceima,0.3,Figuier,Figuier,True
+2,Oriental,0.3,Olivier,Olivier,True
+3,Fes-Meknes,0.3,Pois chiche,Figuier,False
+4,Rabat-Sale-Kenitra,0.3,Figuier,Olivier,False
+5,Beni Mellal-Khenifra,0.3,Figuier,Olivier,False
+6,Casablanca-Settat,0.3,Olivier,Olivier,True
+7,Marrakech-Safi,0.3,Olivier,Olivier,True
+8,Draa-Tafilalet,0.3,Palmier dattier,Figuier,False
+9,Souss-Massa,0.3,Palmier dattier,Palmier dattier,True
+10,Guelmim-Oued Noun,0.3,Figuier,Figuier,True
+11,Laayoune-Sakia El Hamra,0.3,Figuier,Figuier,True
+12,Dakhla-Oued Ed Dahab,0.3,Figuier,Figuier,True
+1,Tanger-Tetouan-Al Hoceima,0.5,Figuier,Olivier,False
+2,Oriental,0.5,Palmier dattier,Olivier,False
+3,Fes-Meknes,0.5,Pois chiche,Figuier,False
+4,Rabat-Sale-Kenitra,0.5,Figuier,Olivier,False
+5,Beni Mellal-Khenifra,0.5,Vigne,Olivier,False
+6,Casablanca-Settat,0.5,Olivier,Olivier,True
+7,Marrakech-Safi,0.5,Olivier,Palmier dattier,False
+8,Draa-Tafilalet,0.5,Palmier dattier,Figuier,False
+9,Souss-Massa,0.5,Palmier dattier,Palmier dattier,True
+10,Guelmim-Oued Noun,0.5,Figuier,Figuier,True
+11,Laayoune-Sakia El Hamra,0.5,Figuier,Figuier,True
+12,Dakhla-Oued Ed Dahab,0.5,Figuier,Figuier,True
+1,Tanger-Tetouan-Al Hoceima,0.7,Pois chiche,Pois chiche,True
+2,Oriental,0.7,Palmier dattier,Palmier dattier,True
+3,Fes-Meknes,0.7,Pois chiche,Haricot,False
+4,Rabat-Sale-Kenitra,0.7,Figuier,Oignon,False
+5,Beni Mellal-Khenifra,0.7,Vigne,Olivier,False
+6,Casablanca-Settat,0.7,Oignon,Olivier,False
+7,Marrakech-Safi,0.7,Olivier,Palmier dattier,False
+8,Draa-Tafilalet,0.7,Palmier dattier,Figuier,False
+9,Souss-Massa,0.7,Palmier dattier,Palmier dattier,True
+10,Guelmim-Oued Noun,0.7,Figuier,Figuier,True
+11,Laayoune-Sakia El Hamra,0.7,Figuier,Figuier,True
+12,Dakhla-Oued Ed Dahab,0.7,Figuier,Figuier,True

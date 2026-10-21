@@ -1,0 +1,6 @@
+﻿facteur_limitant,nb_couples,part_%
+pluviométrie,117,51.3
+pH,48,21.1
+pluviométrie + pH,31,13.6
+aucun facteur limitant unique (scores égaux),25,11.0
+température,7,3.1

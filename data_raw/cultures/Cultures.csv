@@ -1,0 +1,20 @@
+crop_id,crop_name,category
+1,Blé,Cereale
+2,Orge,Cereale
+3,Maïs,Cereale
+4,Riz,Cereale
+5,Pois chiche,Legumineuse
+6,Lentille,Legumineuse
+7,Haricot,Legumineuse
+8,Tournesol,Oleagineux
+9,Olivier,Arboriculture
+10,Agrumes,Arboriculture
+11,Amandier,Arboriculture
+12,Figuier,Arboriculture
+13,Pommier,Arboriculture
+14,Vigne,Arboriculture
+15,Tomate,Maraichage
+16,Pomme de terre,Maraichage
+17,Oignon,Maraichage
+18,Luzerne,Fourrage
+19,Palmier dattier,Arboriculture

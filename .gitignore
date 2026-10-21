@@ -1,0 +1,33 @@
+﻿# Dépendances et fichiers générés
+**/node_modules/
+**/dist/
+**/build/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Version de test non utilisée
+/terramap-dashboard1/
+
+# Archive du dashboard déjà présente dans le projet
+/terramap-dashboard.zip
+
+# Fichiers temporaires et journaux
+*.log
+*.tmp

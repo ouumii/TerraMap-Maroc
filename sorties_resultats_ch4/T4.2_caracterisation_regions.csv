@@ -1,0 +1,13 @@
+﻿region_id,region,temp_mean,rainfall,et0_fao_evapotranspiration,ph,clay,organic_carbon,irrigation_rate_pct
+1,Tanger-Tetouan-Al Hoceima,18.8,907.1,1353.6,7.2,39.0,2.581,7.78
+2,Oriental,19.2,290.6,1598.3,7.9,25.3,1.516,16.87
+3,Fes-Meknes,19.7,616.0,1502.7,8.0,39.0,1.417,12.87
+4,Rabat-Sale-Kenitra,18.8,718.4,1263.5,7.0,28.6,2.53,19.69
+5,Beni Mellal-Khenifra,21.5,722.2,1612.2,7.3,33.6,1.898,20.95
+6,Casablanca-Settat,18.9,536.8,1286.9,6.9,26.5,2.293,11.2
+7,Marrakech-Safi,21.5,371.4,1679.6,8.0,20.9,0.809,14.9
+8,Draa-Tafilalet,19.8,198.4,1787.0,8.2,21.8,0.85,65.17
+9,Souss-Massa,20.6,199.9,1517.2,7.7,25.3,1.457,36.11
+10,Guelmim-Oued Noun,19.9,64.3,1713.7,8.1,13.5,0.426,18.35
+11,Laayoune-Sakia El Hamra,20.9,33.1,1770.0,8.1,12.4,0.631,21.85
+12,Dakhla-Oued Ed Dahab,20.7,34.0,1788.3,8.2,16.2,2.342,51.89

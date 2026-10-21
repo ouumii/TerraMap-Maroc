@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="TerraMap Maroc — lecture interactive des scores de suitability par région et culture." />
+    <title>TerraMap Maroc — Dashboard</title>
+    <style>[hidden]{display:none!important}</style>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  </head>
+  <body>
+    <div id="app">
+      <header class="topbar">
+        <a class="brand" href="#" aria-label="TerraMap Maroc, accueil">
+          <span class="brand-mark">TM</span>
+          <span><strong>TerraMap</strong><small>MAROC · OBSERVATOIRE AGRICOLE</small></span>
+        </a>
+        <div class="topbar-meta"><span class="live-dot"></span><span id="data-status">Chargement des données…</span><span class="source-tag">SCORE EXPLICABLE</span></div>
+      </header>
+
+      <main>
+        <section class="hero">
+          <div>
+            <p class="eyebrow">Lecture territoriale · v1.0</p>
+            <h1>Lire le territoire,<br /><em>culture par culture.</em></h1>
+            <p class="hero-copy">Explorez le compromis entre rendement attendu et performance écologique pour chaque région marocaine.</p>
+          </div>
+          <div class="hero-note"><span class="note-line"></span><span>Un score n'est utile<br />que s'il s'explique.</span></div>
+        </section>
+
+        <section class="controls" aria-label="Filtres et import des données">
+          <div class="control-block"><label for="crop-filter">Culture active</label><select id="crop-filter"><option value="all">Toutes les cultures</option></select></div>
+          <div class="control-block"><label for="region-filter">Région</label><select id="region-filter"><option value="all">Toutes les régions</option></select></div>
+          <div class="control-block alpha-control"><label for="alpha-filter">Poids rendement <output id="alpha-value">0,5</output></label><input id="alpha-filter" type="range" min="30" max="70" value="50" step="20" /><div class="range-labels"><span>α = 0,3 · Écologie</span><span>α = 0,7 · Rendement</span></div></div>
+          <button id="reset-filters" class="button button-ghost" type="button">Réinitialiser</button>
+          <label class="button button-import" for="csv-input"><span>＋</span> Importer un CSV<input id="csv-input" type="file" accept=".csv,text/csv" /></label>
+        </section>
+
+        <div id="demo-banner" class="demo-banner" hidden><strong>Mode démonstration</strong><span>Le fichier <code>score_final_explicable.csv</code> réel n'a pas été trouvé. Importez-le pour afficher vos résultats.</span><button id="dismiss-demo" type="button" aria-label="Masquer">×</button></div>
+
+        <nav class="section-nav" aria-label="Navigation dans le dashboard"><span class="section-nav-label">Aller à</span><a class="section-nav-link active" href="#summary">Synthèse</a><a class="section-nav-link" href="#exploration">Carte &amp; explication</a><a class="section-nav-link" href="#scores">Comparaison des scores</a><a class="section-nav-link" href="#reality">Réalité agricole</a></nav>
+
+        <section id="summary" class="kpi-grid" aria-label="Indicateurs de synthèse">
+          <article class="kpi-card kpi-score"><div class="kpi-label">Score final moyen</div><div id="kpi-score" class="kpi-value">—</div><div id="kpi-score-meta" class="kpi-meta">—</div></article>
+          <article class="kpi-card"><div class="kpi-label">Meilleur score final</div><div id="kpi-best" class="kpi-value kpi-text">—</div><div id="kpi-best-meta" class="kpi-meta">—</div></article>
+          <article class="kpi-card"><div class="kpi-label">Dominante du périmètre</div><div id="kpi-dominant" class="kpi-value kpi-text">—</div><div id="kpi-dominant-meta" class="kpi-meta">—</div></article>
+          <article class="kpi-card"><div class="kpi-label">Couples analysés</div><div id="kpi-count" class="kpi-value">—</div><div id="kpi-count-meta" class="kpi-meta">région × culture</div></article>
+        </section>
+
+        <section id="exploration" class="dashboard-grid">
+          <article class="panel map-panel">
+            <div class="panel-header"><div><p class="eyebrow">Vue cartographique</p><h2>Le Maroc, en un regard</h2></div><div class="legend"><span><i class="legend-dot score-high"></i> Élevé</span><span><i class="legend-dot score-mid"></i> Intermédiaire</span><span><i class="legend-dot score-low"></i> Faible</span><small class="legend-help">Seuils : ≥ 75 % · 55–74,9 % · &lt; 55 %</small></div></div>
+            <div id="map" class="map" aria-label="Carte interactive des scores par région"></div>
+            <div class="map-footer"><span id="map-caption">Survolez un repère pour lire le score.</span><span class="map-hint">Limites réelles · 12 régions · Déplacer · Zoomer</span></div>
+          </article>
+
+          <aside class="panel explanation-panel">
+            <div class="panel-header"><div><p class="eyebrow">Trace d'explicabilité</p><h2 id="explanation-title">Sélectionnez un couple</h2></div><span id="dominant-pill" class="dominant-pill">—</span></div>
+            <div id="explanation-empty" class="empty-state"><span class="empty-icon">◎</span><p>Choisissez une culture et une région, ou cliquez sur un repère de la carte.</p></div>
+            <div id="explanation-content" hidden>
+              <div class="score-hero"><div><span class="kpi-label">Score final</span><strong id="selected-score">—</strong></div><div class="score-ring" id="score-ring"><span id="score-ring-value">—</span></div></div>
+              <div class="component-bars"><div class="component-row"><div class="component-label"><span class="component-dot yield"></span>Rendement <strong id="selected-yield">—</strong></div><div class="bar"><span id="yield-bar" class="bar-fill yield-fill"></span></div></div><div class="component-row"><div class="component-label"><span class="component-dot ecology"></span>Écologie <strong id="selected-eco">—</strong></div><div class="bar"><span id="eco-bar" class="bar-fill eco-fill"></span></div></div></div>
+              <div class="explanation-box"><div class="box-label">Pourquoi ce score ?</div><p id="selected-explanation">—</p><div id="selected-factors" class="factor-list"></div></div>
+              <div class="selection-meta"><span id="selected-region-meta">—</span><span id="selected-culture-meta">—</span></div>
+            </div>
+          </aside>
+        </section>
+
+        <section id="scores" class="panel comparison-panel"><div class="panel-header"><div><p class="eyebrow">Comparaison des scores</p><h2 id="comparison-title">Toutes les régions · toutes cultures</h2></div><span id="comparison-subtitle" class="muted">Trié par score final</span></div><div id="comparison-list" class="comparison-list"></div><div id="no-results" class="no-results" hidden><strong>Aucune donnée pour cette sélection.</strong><span>Modifiez les filtres ou réinitialisez la vue.</span></div></section>
+
+        <section id="reality" class="panel reality-panel"><div class="panel-header"><div><p class="eyebrow">Confrontation avec la réalité agricole</p><h2>Recommandations TerraMap et cultures observées</h2></div><span id="reality-subtitle" class="muted">Chargement des observations…</span></div><div id="reality-list" class="reality-list"></div><div id="reality-empty" class="no-results" hidden><strong>Fichier agricole actuel non disponible.</strong><span>Ajoutez <code>public/data/agriculture_actuelle.csv</code> pour comparer les recommandations aux cultures observées.</span></div></section>
+
+        <footer class="footer"><span>TerraMap Maroc · scores finaux explicables</span><span>Rendement <i class="footer-dot yield"></i> · Écologie <i class="footer-dot ecology"></i> · α configurable</span><span class="footer-warning">Les scores sont des indices relatifs d'aptitude, pas des prévisions de rendement.</span></footer>
+      </main>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

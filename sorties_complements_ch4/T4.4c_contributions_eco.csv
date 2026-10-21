@@ -1,0 +1,13 @@
+﻿region,score_irrig,score_deficit_moyen,score_eco_moyen,contrib_deficit,contrib_irrigation,part_deficit_%
+Tanger-Tetouan-Al Hoceima,1.0,0.7881,0.8411,0.5911,0.25,70.2753
+Rabat-Sale-Kenitra,0.7925,0.7443,0.7563,0.5582,0.1981,73.8047
+Casablanca-Settat,0.9404,0.6472,0.7205,0.4854,0.2351,67.371
+Fes-Meknes,0.9113,0.583,0.665,0.4372,0.2278,65.7428
+Beni Mellal-Khenifra,0.7705,0.5816,0.6288,0.4362,0.1926,69.3671
+Marrakech-Safi,0.8759,0.3837,0.5068,0.2878,0.219,56.7883
+Oriental,0.8416,0.3838,0.4983,0.2878,0.2104,57.7719
+Souss-Massa,0.5064,0.3791,0.4109,0.2843,0.1266,69.1933
+Guelmim-Oued Noun,0.8158,0.2222,0.3706,0.1667,0.204,44.9694
+Laayoune-Sakia El Hamra,0.7548,0.1809,0.3244,0.1357,0.1887,41.825
+Draa-Tafilalet,0.0,0.2511,0.1884,0.1884,0.0,100.0
+Dakhla-Oued Ed Dahab,0.2314,0.1727,0.1874,0.1295,0.0578,69.1252

@@ -1,0 +1,13 @@
+region_id,region,capital,latitude,longitude,temp_mean,temp_max,temp_min,rainfall,humidity,et0_fao_evapotranspiration
+1,Tanger-Tetouan-Al Hoceima,Tanger,35.7595,-5.834,18.8,41.4,3.9,907.1,75.2,1353.6
+2,Oriental,Oujda,34.6814,-1.9086,19.2,42.0,-0.8,290.6,55.5,1598.3
+3,Fes-Meknes,Fes,34.0331,-5.0003,19.7,43.8,1.2,616.0,58.6,1502.7
+4,Rabat-Sale-Kenitra,Rabat,34.0209,-6.8416,18.8,39.2,5.1,718.4,76.5,1263.5
+5,Beni Mellal-Khenifra,Beni Mellal,32.3373,-6.3498,21.5,45.0,1.5,722.2,47.2,1612.2
+6,Casablanca-Settat,Casablanca,33.5731,-7.5898,18.9,40.8,4.7,536.8,75.8,1286.9
+7,Marrakech-Safi,Marrakech,31.6295,-7.9811,21.5,45.1,4.0,371.4,50.7,1679.6
+8,Draa-Tafilalet,Errachidia,31.9314,-4.4247,19.8,41.9,-0.1,198.4,36.0,1787.0
+9,Souss-Massa,Agadir,30.4278,-9.5981,20.6,43.1,9.3,199.9,64.7,1517.2
+10,Guelmim-Oued Noun,Guelmim,28.987,-10.0574,19.9,44.6,4.5,64.3,63.1,1713.7
+11,Laayoune-Sakia El Hamra,Laayoune,27.1536,-13.2033,20.9,47.1,8.0,33.1,67.6,1770.0
+12,Dakhla-Oued Ed Dahab,Dakhla,23.6848,-15.957,20.7,42.6,9.7,34.0,69.2,1788.3
