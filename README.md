@@ -408,4 +408,6 @@ GitHub : [@ouumii](https://github.com/ouumii)
 
 ### Licence
 
-Projet académique. La licence de réutilisation du code et des données reste à préciser. Les données sources (ECOCROP/GAEZ, Open-Meteo, SoilGrids, Atlas de l'Agriculture Marocaine, HCP/DRA) restent soumises à leurs conditions d'utilisation respectives.
+- Données dérivées, scores et résultats : CC BY 4.0
+- **Exception : `geo/morocco-regions.geojson`** : ODbL 1.0 (© OpenStreetMap contributors, via geoBoundaries (Open)). Voir https://opendatacommons.org/licenses/odbl/1-0/
+- Composantes tierces (ECOCROP, Open-Meteo, SoilGrids, Atlas RGA 2016, HCP/DRA) : conditions détaillées dans `SOURCES_ET_LICENCES.md`
